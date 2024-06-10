@@ -1,0 +1,76 @@
+Franklin Av :  2
+Delancey St-Essex St :  2
+Wall St :  2
+Times Sq-42 St :  4
+New Lots Av :  2
+Chambers St :  3
+170 St :  2
+Cathedral Pkwy (110 St) :  2
+111 St :  3
+Lorimer St :  2
+Bay Pkwy :  3
+116 St :  3
+Dyckman St :  2
+96 St :  4
+Jay St-MetroTech :  2
+28 St :  3
+181 St :  2
+23 St :  5
+86 St :  6
+DeKalb Av :  2
+161 St-Yankee Stadium :  2
+14 St-Union Sq :  3
+Broadway Junction :  3
+Gun Hill Rd :  2
+Halsey St :  2
+Canal St :  6
+125 St :  4
+50 St :  3
+Prospect Av :  2
+Nostrand Av :  2
+Rockaway Av :  2
+Van Siclen Av :  3
+Church Av :  3
+79 St :  2
+20 Av :  2
+Fulton St :  5
+Kingsbridge Rd :  2
+155 St :  2
+4 Av-9 St :  2
+59 St-Columbus Circle :  2
+8 Av :  2
+Pelham Pkwy :  2
+Rector St :  2
+14 St :  3
+18 Av :  3
+149 St-Grand Concourse :  2
+Flushing Av :  2
+Queensboro Plaza :  2
+167 St :  2
+Bergen St :  2
+Avenue U :  3
+104 St :  2
+77 St :  2
+W 4 St-Wash Sq :  2
+59 St :  2
+Woodhaven Blvd :  2
+145 St :  4
+Grand Central-42 St :  3
+Broadway :  2
+Clinton-Washington Avs :  2
+Fort Hamilton Pkwy :  3
+Court Sq :  2
+Fordham Rd :  2
+72 St :  3
+Borough Hall :  2
+Kings Hwy :  3
+34 St-Penn Station :  2
+Atlantic Av-Barclays Ctr :  3
+7 Av :  3
+103 St :  3
+135 St :  2
+Spring St :  2
+Myrtle-Wyckoff Avs :  2
+36 St :  2
+34 St-Herald Sq :  2
+Grand St :  2
