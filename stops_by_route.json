@@ -1,0 +1,4886 @@
+"Route A":{
+   "stops":[
+      {
+         "name":"Beach 105 St",
+         "lat":40.583209,
+         "lng":-73.827559,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Aqueduct Racetrack",
+         "lat":40.668234,
+         "lng":-73.834058,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Grant Av",
+         "lat":40.677044,
+         "lng":-73.86505,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Beach 44 St",
+         "lat":40.592943,
+         "lng":-73.776013,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Beach 98 St",
+         "lat":40.585307,
+         "lng":-73.820558,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Rockaway Blvd",
+         "lat":40.680429,
+         "lng":-73.843853,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Aqueduct-N Conduit Av",
+         "lat":40.668234,
+         "lng":-73.834058,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Euclid Av",
+         "lat":40.675377,
+         "lng":-73.872106,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"Inwood-207 St",
+         "lat":40.868072,
+         "lng":-73.919899,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"High St",
+         "lat":40.699337,
+         "lng":-73.990531,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"Beach 60 St",
+         "lat":40.592374,
+         "lng":-73.788522,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"88 St",
+         "lat":40.679843,
+         "lng":-73.85147,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Beach 67 St",
+         "lat":40.590927,
+         "lng":-73.796924,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Utica Av",
+         "lat":40.679364,
+         "lng":-73.930729,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"Beach 25 St",
+         "lat":40.600066,
+         "lng":-73.761353,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Howard Beach-JFK Airport",
+         "lat":40.660476,
+         "lng":-73.830301,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"42 St-Port Authority Bus Terminal",
+         "lat":40.757308,
+         "lng":-73.989735,
+         "routes":[
+            "A",
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"Far Rockaway-Mott Av",
+         "lat":40.603995,
+         "lng":-73.755405,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"175 St",
+         "lat":40.847391,
+         "lng":-73.939704,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Broad Channel",
+         "lat":40.608382,
+         "lng":-73.815925,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Hoyt-Schermerhorn Sts",
+         "lat":40.688484,
+         "lng":-73.985001,
+         "routes":[
+            "A",
+            "C",
+            "G"
+         ]
+      },
+      {
+         "name":"190 St",
+         "lat":40.859022,
+         "lng":-73.93418,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Rockaway Park-Beach 116 St",
+         "lat":40.580903,
+         "lng":-73.835592,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Beach 36 St",
+         "lat":40.595398,
+         "lng":-73.768175,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"168 St",
+         "lat":40.840719,
+         "lng":-73.939561,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"80 St",
+         "lat":40.679371,
+         "lng":-73.858992,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Ozone Park-Lefferts Blvd",
+         "lat":40.685951,
+         "lng":-73.825798,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Beach 90 St",
+         "lat":40.588034,
+         "lng":-73.813641,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Chambers St and Church St",
+         "lat":40.714111,
+         "lng":-74.008585,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"111 St and Liberty Av",
+         "lat":40.684331,
+         "lng":-73.832163,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Dyckman St and Broadway",
+         "lat":40.865491,
+         "lng":-73.927271,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Jay St-MetroTech",
+         "lat":40.692338,
+         "lng":-73.987342,
+         "routes":[
+            "A",
+            "C",
+            "F"
+         ]
+      },
+      {
+         "name":"181 St and Fort Washington Av",
+         "lat":40.851695,
+         "lng":-73.937969,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"Canal St and 6th Ave",
+         "lat":40.720824,
+         "lng":-74.005229,
+         "routes":[
+            "A",
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"125 St and St Nicholas Av",
+         "lat":40.811109,
+         "lng":-73.952343,
+         "routes":[
+            "A",
+            "B",
+            "C",
+            "D"
+         ]
+      },
+      {
+         "name":"Nostrand Av and Fulton St",
+         "lat":40.680438,
+         "lng":-73.950426,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"59 St-Columbus Circle",
+         "lat":40.768272,
+         "lng":-73.981833,
+         "routes":[
+            "1",
+            "A",
+            "B",
+            "C",
+            "D"
+         ]
+      },
+      {
+         "name":"14 St and 8 Av",
+         "lat":40.740893,
+         "lng":-74.00169,
+         "routes":[
+            "A",
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"104 St and Liberty Av",
+         "lat":40.681711,
+         "lng":-73.837683,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"104 St and Liberty Av",
+         "lat":40.681711,
+         "lng":-73.837683,
+         "routes":[
+            "A"
+         ]
+      },
+      {
+         "name":"W 4 St-Wash Sq",
+         "lat":40.732338,
+         "lng":-74.000495,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"145 St and St Nicholas Av",
+         "lat":40.824783,
+         "lng":-73.944216,
+         "routes":[
+            "A",
+            "C",
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"34 St-Penn Station",
+         "lat":40.75133,
+         "lng":-73.992224,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "1",
+            "2",
+            "3"
+         ]
+      }
+   ]
+}"Route B":{
+   "stops":[
+      {
+         "name":"Newkirk Plaza",
+         "lat":40.635082,
+         "lng":-73.962793,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"174-175 Sts",
+         "lat":40.8459,
+         "lng":-73.910136,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Bedford Park Blvd",
+         "lat":40.873244,
+         "lng":-73.887138,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Sheepshead Bay",
+         "lat":40.586896,
+         "lng":-73.954155,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"47-50 Sts-Rockefeller Ctr",
+         "lat":40.758663,
+         "lng":-73.981329,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Prospect Park",
+         "lat":40.661614,
+         "lng":-73.962246,
+         "routes":[
+            "B",
+            "Q",
+            "S"
+         ]
+      },
+      {
+         "name":"Brighton Beach",
+         "lat":40.577621,
+         "lng":-73.961376,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"Broadway-Lafayette St",
+         "lat":40.725297,
+         "lng":-73.996204,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"42 St-Bryant Pk",
+         "lat":40.754222,
+         "lng":-73.984569,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"81 St-Museum of Natural History",
+         "lat":40.781433,
+         "lng":-73.972143,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"182-183 Sts",
+         "lat":40.856093,
+         "lng":-73.900741,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Tremont Av",
+         "lat":40.85041,
+         "lng":-73.905227,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"170 St and Grand Concourse",
+         "lat":40.839306,
+         "lng":-73.9134,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Cathedral Pkwy (110 St) and Frederick Douglass Blvd",
+         "lat":40.800603,
+         "lng":-73.958161,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"116 St and Frederick Douglass Blvd",
+         "lat":40.805085,
+         "lng":-73.954882,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"96 St and Central Park W",
+         "lat":40.791642,
+         "lng":-73.964696,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"86 St and Central Park W",
+         "lat":40.785868,
+         "lng":-73.968916,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"DeKalb Av and Flatbush Av Ext",
+         "lat":40.690635,
+         "lng":-73.981824,
+         "routes":[
+            "B",
+            "Q",
+            "R"
+         ]
+      },
+      {
+         "name":"125 St and St Nicholas Av",
+         "lat":40.811109,
+         "lng":-73.952343,
+         "routes":[
+            "A",
+            "B",
+            "C",
+            "D"
+         ]
+      },
+      {
+         "name":"Church Av and 18th Street",
+         "lat":40.650527,
+         "lng":-73.962982,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"Kingsbridge Rd and Grand Concourse",
+         "lat":40.866978,
+         "lng":-73.893509,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"155 St and Frederick Douglas Blvd",
+         "lat":40.830135,
+         "lng":-73.938209,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"59 St-Columbus Circle",
+         "lat":40.768272,
+         "lng":-73.981833,
+         "routes":[
+            "1",
+            "A",
+            "B",
+            "C",
+            "D"
+         ]
+      },
+      {
+         "name":"167 St and Tudor Pl",
+         "lat":40.833771,
+         "lng":-73.91844,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"167 St and Tudor Pl",
+         "lat":40.833771,
+         "lng":-73.91844,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Atlantic Av-Barclays Ctr",
+         "lat":40.684162,
+         "lng":-73.977789,
+         "routes":[
+            "2",
+            "3",
+            "4",
+            "5",
+            "B",
+            "D",
+            "N",
+            "Q",
+            "R"
+         ]
+      },
+      {
+         "name":"7 Av and Park Pl",
+         "lat":40.67705,
+         "lng":-73.972367,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"7 Av and 53rd St",
+         "lat":40.762862,
+         "lng":-73.981637,
+         "routes":[
+            "B",
+            "D",
+            "E"
+         ]
+      },
+      {
+         "name":"103 St and Central Park W",
+         "lat":40.796092,
+         "lng":-73.961454,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"135 St and St. Nicholas Av",
+         "lat":40.817894,
+         "lng":-73.947649,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"34 St-Herald Sq",
+         "lat":40.749719,
+         "lng":-73.987823,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Grand St",
+         "lat":40.718267,
+         "lng":-73.993753,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"W 4 St-Wash Sq",
+         "lat":40.732338,
+         "lng":-74.000495,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"145 St and St Nicholas Av",
+         "lat":40.824783,
+         "lng":-73.944216,
+         "routes":[
+            "A",
+            "C",
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Fordham Rd and Grand Concourse",
+         "lat":40.861296,
+         "lng":-73.897749,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"72 St and Central Park W",
+         "lat":40.775594,
+         "lng":-73.97641,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"Kings Hwy and E 15th St",
+         "lat":40.60867,
+         "lng":-73.957734,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      }
+   ]
+}"Route C":{
+   "stops":[
+      {
+         "name":"Liberty Av",
+         "lat":40.674542,
+         "lng":-73.896548,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"163 St-Amsterdam Av",
+         "lat":40.836013,
+         "lng":-73.939892,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"Euclid Av",
+         "lat":40.675377,
+         "lng":-73.872106,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"High St",
+         "lat":40.699337,
+         "lng":-73.990531,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"Kingston-Throop Avs",
+         "lat":40.679921,
+         "lng":-73.940858,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"Lafayette Av",
+         "lat":40.686113,
+         "lng":-73.973946,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"Utica Av",
+         "lat":40.679364,
+         "lng":-73.930729,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"Shepherd Av",
+         "lat":40.67413,
+         "lng":-73.88075,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"42 St-Port Authority Bus Terminal",
+         "lat":40.757308,
+         "lng":-73.989735,
+         "routes":[
+            "A",
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"Ralph Av",
+         "lat":40.678822,
+         "lng":-73.920786,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"Hoyt-Schermerhorn Sts",
+         "lat":40.688484,
+         "lng":-73.985001,
+         "routes":[
+            "A",
+            "C",
+            "G"
+         ]
+      },
+      {
+         "name":"81 St-Museum of Natural History",
+         "lat":40.781433,
+         "lng":-73.972143,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"168 St",
+         "lat":40.840719,
+         "lng":-73.939561,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Chambers St and Church St",
+         "lat":40.714111,
+         "lng":-74.008585,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"Cathedral Pkwy (110 St) and Frederick Douglass Blvd",
+         "lat":40.800603,
+         "lng":-73.958161,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"116 St and Frederick Douglass Blvd",
+         "lat":40.805085,
+         "lng":-73.954882,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"96 St and Central Park W",
+         "lat":40.791642,
+         "lng":-73.964696,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"Jay St-MetroTech",
+         "lat":40.692338,
+         "lng":-73.987342,
+         "routes":[
+            "A",
+            "C",
+            "F"
+         ]
+      },
+      {
+         "name":"23 St and 8th Av",
+         "lat":40.745906,
+         "lng":-73.998041,
+         "routes":[
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"86 St and Central Park W",
+         "lat":40.785868,
+         "lng":-73.968916,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"Canal St and 6th Ave",
+         "lat":40.720824,
+         "lng":-74.005229,
+         "routes":[
+            "A",
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"125 St and St Nicholas Av",
+         "lat":40.811109,
+         "lng":-73.952343,
+         "routes":[
+            "A",
+            "B",
+            "C",
+            "D"
+         ]
+      },
+      {
+         "name":"50 St and 8th Av",
+         "lat":40.762456,
+         "lng":-73.985984,
+         "routes":[
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"Nostrand Av and Fulton St",
+         "lat":40.680438,
+         "lng":-73.950426,
+         "routes":[
+            "A",
+            "C"
+         ]
+      },
+      {
+         "name":"Rockaway Av and Fulton St",
+         "lat":40.67834,
+         "lng":-73.911946,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"Van Siclen Av and Pitkin Av",
+         "lat":40.67271,
+         "lng":-73.890358,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"155 St and St Nicholas Av",
+         "lat":40.830518,
+         "lng":-73.941514,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"59 St-Columbus Circle",
+         "lat":40.768272,
+         "lng":-73.981833,
+         "routes":[
+            "1",
+            "A",
+            "B",
+            "C",
+            "D"
+         ]
+      },
+      {
+         "name":"14 St and 8 Av",
+         "lat":40.740893,
+         "lng":-74.00169,
+         "routes":[
+            "A",
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"103 St and Central Park W",
+         "lat":40.796092,
+         "lng":-73.961454,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"135 St and St. Nicholas Av",
+         "lat":40.817894,
+         "lng":-73.947649,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"Spring St and 6th Av",
+         "lat":40.726227,
+         "lng":-74.003739,
+         "routes":[
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"W 4 St-Wash Sq",
+         "lat":40.732338,
+         "lng":-74.000495,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"145 St and St Nicholas Av",
+         "lat":40.824783,
+         "lng":-73.944216,
+         "routes":[
+            "A",
+            "C",
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Clinton-Washington Avs and Lafayette Av",
+         "lat":40.683263,
+         "lng":-73.965838,
+         "routes":[
+            "C"
+         ]
+      },
+      {
+         "name":"72 St and Central Park W",
+         "lat":40.775594,
+         "lng":-73.97641,
+         "routes":[
+            "B",
+            "C"
+         ]
+      },
+      {
+         "name":"34 St-Penn Station",
+         "lat":40.75133,
+         "lng":-73.992224,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "1",
+            "2",
+            "3"
+         ]
+      }
+   ]
+}"Route D":{
+   "stops":[
+      {
+         "name":"Bay 50 St",
+         "lat":40.588841,
+         "lng":-73.983765,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"Coney Island-Stillwell Av",
+         "lat":40.577422,
+         "lng":-73.981233,
+         "routes":[
+            "D",
+            "F",
+            "N",
+            "Q"
+         ]
+      },
+      {
+         "name":"174-175 Sts",
+         "lat":40.8459,
+         "lng":-73.910136,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Bedford Park Blvd",
+         "lat":40.873244,
+         "lng":-73.887138,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"55 St",
+         "lat":40.631435,
+         "lng":-73.995476,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"47-50 Sts-Rockefeller Ctr",
+         "lat":40.758663,
+         "lng":-73.981329,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Broadway-Lafayette St",
+         "lat":40.725297,
+         "lng":-73.996204,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"42 St-Bryant Pk",
+         "lat":40.754222,
+         "lng":-73.984569,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"71 St",
+         "lat":40.619589,
+         "lng":-73.998864,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"9 Av",
+         "lat":40.646292,
+         "lng":-73.994324,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"182-183 Sts",
+         "lat":40.856093,
+         "lng":-73.900741,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Norwood-205 St",
+         "lat":40.874811,
+         "lng":-73.878855,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"25 Av",
+         "lat":40.597704,
+         "lng":-73.986829,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"62 St",
+         "lat":40.626472,
+         "lng":-73.996895,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"Tremont Av",
+         "lat":40.85041,
+         "lng":-73.905227,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"170 St and Grand Concourse",
+         "lat":40.839306,
+         "lng":-73.9134,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Bay Pkwy and 86th St",
+         "lat":40.601875,
+         "lng":-73.993728,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"125 St and St Nicholas Av",
+         "lat":40.811109,
+         "lng":-73.952343,
+         "routes":[
+            "A",
+            "B",
+            "C",
+            "D"
+         ]
+      },
+      {
+         "name":"50 St and New Utrecht Av",
+         "lat":40.63626,
+         "lng":-73.994791,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"79 St and New Utrecht Av",
+         "lat":40.613501,
+         "lng":-74.00061,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"20 Av and 86th St",
+         "lat":40.604556,
+         "lng":-73.998168,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"Kingsbridge Rd and Grand Concourse",
+         "lat":40.866978,
+         "lng":-73.893509,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"155 St and Frederick Douglas Blvd",
+         "lat":40.830135,
+         "lng":-73.938209,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"59 St-Columbus Circle",
+         "lat":40.768272,
+         "lng":-73.981833,
+         "routes":[
+            "1",
+            "A",
+            "B",
+            "C",
+            "D"
+         ]
+      },
+      {
+         "name":"18 Av and 85 St",
+         "lat":40.607954,
+         "lng":-74.001736,
+         "routes":[
+            "D"
+         ]
+      },
+      {
+         "name":"167 St and Tudor Pl",
+         "lat":40.833771,
+         "lng":-73.91844,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"167 St and Tudor Pl",
+         "lat":40.833771,
+         "lng":-73.91844,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Atlantic Av-Barclays Ctr",
+         "lat":40.684162,
+         "lng":-73.977789,
+         "routes":[
+            "2",
+            "3",
+            "4",
+            "5",
+            "B",
+            "D",
+            "N",
+            "Q",
+            "R"
+         ]
+      },
+      {
+         "name":"7 Av and 53rd St",
+         "lat":40.762862,
+         "lng":-73.981637,
+         "routes":[
+            "B",
+            "D",
+            "E"
+         ]
+      },
+      {
+         "name":"34 St-Herald Sq",
+         "lat":40.749719,
+         "lng":-73.987823,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Grand St",
+         "lat":40.718267,
+         "lng":-73.993753,
+         "routes":[
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"W 4 St-Wash Sq",
+         "lat":40.732338,
+         "lng":-74.000495,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"145 St and St Nicholas Av",
+         "lat":40.824783,
+         "lng":-73.944216,
+         "routes":[
+            "A",
+            "C",
+            "B",
+            "D"
+         ]
+      },
+      {
+         "name":"Fordham Rd and Grand Concourse",
+         "lat":40.861296,
+         "lng":-73.897749,
+         "routes":[
+            "B",
+            "D"
+         ]
+      }
+   ]
+}"Route E":{
+   "stops":[
+      {
+         "name":"5 Av/53 St",
+         "lat":40.760167,
+         "lng":-73.975224,
+         "routes":[
+            "E",
+            "M"
+         ]
+      },
+      {
+         "name":"Forest Hills-71 Av",
+         "lat":40.721691,
+         "lng":-73.844521,
+         "routes":[
+            "E",
+            "F",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Jamaica-Van Wyck",
+         "lat":40.702566,
+         "lng":-73.816859,
+         "routes":[
+            "E"
+         ]
+      },
+      {
+         "name":"75 Av",
+         "lat":40.718331,
+         "lng":-73.837324,
+         "routes":[
+            "E",
+            "F"
+         ]
+      },
+      {
+         "name":"Lexington Av/53 St",
+         "lat":40.757552,
+         "lng":-73.969055,
+         "routes":[
+            "E",
+            "M"
+         ]
+      },
+      {
+         "name":"Sutphin Blvd-Archer Av-JFK Airport",
+         "lat":40.700486,
+         "lng":-73.807969,
+         "routes":[
+            "E",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Kew Gardens-Union Tpke",
+         "lat":40.714441,
+         "lng":-73.831008,
+         "routes":[
+            "E",
+            "F"
+         ]
+      },
+      {
+         "name":"Court Sq-23 St",
+         "lat":40.747846,
+         "lng":-73.946,
+         "routes":[
+            "E",
+            "M"
+         ]
+      },
+      {
+         "name":"Jamaica Center-Parsons/Archer",
+         "lat":40.702147,
+         "lng":-73.801109,
+         "routes":[
+            "E",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Jackson Hts-Roosevelt Av",
+         "lat":40.746644,
+         "lng":-73.891338,
+         "routes":[
+            "E",
+            "F",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"42 St-Port Authority Bus Terminal",
+         "lat":40.757308,
+         "lng":-73.989735,
+         "routes":[
+            "A",
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"Briarwood",
+         "lat":40.709179,
+         "lng":-73.820574,
+         "routes":[
+            "E",
+            "F"
+         ]
+      },
+      {
+         "name":"World Trade Center",
+         "lat":40.712582,
+         "lng":-74.009781,
+         "routes":[
+            "E"
+         ]
+      },
+      {
+         "name":"Queens Plaza",
+         "lat":40.748973,
+         "lng":-73.937243,
+         "routes":[
+            "E",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"23 St and 8th Av",
+         "lat":40.745906,
+         "lng":-73.998041,
+         "routes":[
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"Canal St and 6th Ave",
+         "lat":40.720824,
+         "lng":-74.005229,
+         "routes":[
+            "A",
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"50 St and 8th Av",
+         "lat":40.762456,
+         "lng":-73.985984,
+         "routes":[
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"14 St and 8 Av",
+         "lat":40.740893,
+         "lng":-74.00169,
+         "routes":[
+            "A",
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"7 Av and 53rd St",
+         "lat":40.762862,
+         "lng":-73.981637,
+         "routes":[
+            "B",
+            "D",
+            "E"
+         ]
+      },
+      {
+         "name":"Spring St and 6th Av",
+         "lat":40.726227,
+         "lng":-74.003739,
+         "routes":[
+            "C",
+            "E"
+         ]
+      },
+      {
+         "name":"W 4 St-Wash Sq",
+         "lat":40.732338,
+         "lng":-74.000495,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"34 St-Penn Station",
+         "lat":40.75133,
+         "lng":-73.992224,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "1",
+            "2",
+            "3"
+         ]
+      }
+   ]
+}"Route F":{
+   "stops":[
+      {
+         "name":"Avenue P",
+         "lat":40.608944,
+         "lng":-73.973022,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"East Broadway",
+         "lat":40.713715,
+         "lng":-73.990173,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"W 8 St-NY Aquarium",
+         "lat":40.576127,
+         "lng":-73.975939,
+         "routes":[
+            "F",
+            "Q"
+         ]
+      },
+      {
+         "name":"Sutphin Blvd",
+         "lat":40.70546,
+         "lng":-73.810708,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Coney Island-Stillwell Av",
+         "lat":40.577422,
+         "lng":-73.981233,
+         "routes":[
+            "D",
+            "F",
+            "N",
+            "Q"
+         ]
+      },
+      {
+         "name":"Forest Hills-71 Av",
+         "lat":40.721691,
+         "lng":-73.844521,
+         "routes":[
+            "E",
+            "F",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Neptune Av",
+         "lat":40.581011,
+         "lng":-73.974574,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Smith-9 Sts",
+         "lat":40.67358,
+         "lng":-73.995959,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"21 St-Queensbridge",
+         "lat":40.754203,
+         "lng":-73.942836,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Avenue N",
+         "lat":40.61514,
+         "lng":-73.974197,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"75 Av",
+         "lat":40.718331,
+         "lng":-73.837324,
+         "routes":[
+            "E",
+            "F"
+         ]
+      },
+      {
+         "name":"Avenue X",
+         "lat":40.58962,
+         "lng":-73.97425,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"57 St",
+         "lat":40.763972,
+         "lng":-73.97745,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Parsons Blvd",
+         "lat":40.707564,
+         "lng":-73.803326,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"47-50 Sts-Rockefeller Ctr",
+         "lat":40.758663,
+         "lng":-73.981329,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Carroll St",
+         "lat":40.680303,
+         "lng":-73.995048,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"Ditmas Av",
+         "lat":40.636119,
+         "lng":-73.978172,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Kew Gardens-Union Tpke",
+         "lat":40.714441,
+         "lng":-73.831008,
+         "routes":[
+            "E",
+            "F"
+         ]
+      },
+      {
+         "name":"Broadway-Lafayette St",
+         "lat":40.725297,
+         "lng":-73.996204,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Lexington Av/63 St",
+         "lat":40.764629,
+         "lng":-73.966113,
+         "routes":[
+            "F",
+            "Q"
+         ]
+      },
+      {
+         "name":"42 St-Bryant Pk",
+         "lat":40.754222,
+         "lng":-73.984569,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Jackson Hts-Roosevelt Av",
+         "lat":40.746644,
+         "lng":-73.891338,
+         "routes":[
+            "E",
+            "F",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"15 St-Prospect Park",
+         "lat":40.660365,
+         "lng":-73.979493,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"169 St",
+         "lat":40.71047,
+         "lng":-73.793604,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Briarwood",
+         "lat":40.709179,
+         "lng":-73.820574,
+         "routes":[
+            "E",
+            "F"
+         ]
+      },
+      {
+         "name":"York St",
+         "lat":40.701397,
+         "lng":-73.986751,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Avenue I",
+         "lat":40.625322,
+         "lng":-73.976127,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Jamaica-179 St",
+         "lat":40.712646,
+         "lng":-73.783817,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Roosevelt Island",
+         "lat":40.759145,
+         "lng":-73.95326,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"2 Av",
+         "lat":40.723402,
+         "lng":-73.989938,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Delancey St-Essex St",
+         "lat":40.718611,
+         "lng":-73.988114,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Bay Pkwy and McDonald Av",
+         "lat":40.620769,
+         "lng":-73.975264,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Jay St-MetroTech",
+         "lat":40.692338,
+         "lng":-73.987342,
+         "routes":[
+            "A",
+            "C",
+            "F"
+         ]
+      },
+      {
+         "name":"23 St and 6th Av",
+         "lat":40.742878,
+         "lng":-73.992821,
+         "routes":[
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Church Av and McDonald Av",
+         "lat":40.644041,
+         "lng":-73.979678,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"4 Av-9 St",
+         "lat":40.670272,
+         "lng":-73.989779,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"14 St and 6 Av",
+         "lat":40.738027,
+         "lng":-73.998205,
+         "routes":[
+            "1",
+            "2",
+            "F",
+            "L",
+            "M"
+         ]
+      },
+      {
+         "name":"18 Av and McDonald Av",
+         "lat":40.629755,
+         "lng":-73.976971,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Bergen St and Warren St",
+         "lat":40.686145,
+         "lng":-73.990862,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"Avenue U and McDonald Av",
+         "lat":40.596063,
+         "lng":-73.973357,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"Bergen St and Warren St",
+         "lat":40.686145,
+         "lng":-73.990862,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"Avenue U and McDonald Av",
+         "lat":40.596063,
+         "lng":-73.973357,
+         "routes":[
+            "F"
+         ]
+      },
+      {
+         "name":"7 Av and 9th St",
+         "lat":40.666271,
+         "lng":-73.980305,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"34 St-Herald Sq",
+         "lat":40.749719,
+         "lng":-73.987823,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"W 4 St-Wash Sq",
+         "lat":40.732338,
+         "lng":-74.000495,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Fort Hamilton Pkwy and Prospect Av",
+         "lat":40.650782,
+         "lng":-73.975776,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"Kings Hwy and McDonald Avd",
+         "lat":40.603217,
+         "lng":-73.972361,
+         "routes":[
+            "F"
+         ]
+      }
+   ]
+}"Route G":{
+   "stops":[
+      {
+         "name":"Myrtle-Willoughby Avs",
+         "lat":40.694568,
+         "lng":-73.949046,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Nassau Av",
+         "lat":40.724635,
+         "lng":-73.951277,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Bedford-Nostrand Avs",
+         "lat":40.689627,
+         "lng":-73.953522,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Smith-9 Sts",
+         "lat":40.67358,
+         "lng":-73.995959,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"Metropolitan Av",
+         "lat":40.712792,
+         "lng":-73.951418,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Carroll St",
+         "lat":40.680303,
+         "lng":-73.995048,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"15 St-Prospect Park",
+         "lat":40.660365,
+         "lng":-73.979493,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"21 St",
+         "lat":40.744065,
+         "lng":-73.949724,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Hoyt-Schermerhorn Sts",
+         "lat":40.688484,
+         "lng":-73.985001,
+         "routes":[
+            "A",
+            "C",
+            "G"
+         ]
+      },
+      {
+         "name":"Classon Av",
+         "lat":40.688873,
+         "lng":-73.96007,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Greenpoint Av",
+         "lat":40.731352,
+         "lng":-73.954449,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Church Av and McDonald Av",
+         "lat":40.644041,
+         "lng":-73.979678,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"Fulton St and Lafayette Av",
+         "lat":40.687119,
+         "lng":-73.975375,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"4 Av-9 St",
+         "lat":40.670272,
+         "lng":-73.989779,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"Flushing Av and Union Av",
+         "lat":40.700377,
+         "lng":-73.950234,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Bergen St and Warren St",
+         "lat":40.686145,
+         "lng":-73.990862,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"Bergen St and Warren St",
+         "lat":40.686145,
+         "lng":-73.990862,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"7 Av and 9th St",
+         "lat":40.666271,
+         "lng":-73.980305,
+         "routes":[
+            "F",
+            "G"
+         ]
+      },
+      {
+         "name":"Broadway and Union Av",
+         "lat":40.706092,
+         "lng":-73.950308,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Clinton-Washington Avs and Fulton St",
+         "lat":40.688089,
+         "lng":-73.966839,
+         "routes":[
+            "G"
+         ]
+      },
+      {
+         "name":"Fort Hamilton Pkwy and Prospect Av",
+         "lat":40.650782,
+         "lng":-73.975776,
+         "routes":[
+            "F",
+            "G"
+         ]
+      }
+   ]
+}"Route L":{
+   "stops":[
+      {
+         "name":"6 Av",
+         "lat":40.737335,
+         "lng":-73.996786,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Jefferson St",
+         "lat":40.706607,
+         "lng":-73.922913,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Graham Av",
+         "lat":40.714565,
+         "lng":-73.944053,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Atlantic Av",
+         "lat":40.675345,
+         "lng":-73.903097,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Sutter Av",
+         "lat":40.669367,
+         "lng":-73.901975,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"3 Av",
+         "lat":40.732849,
+         "lng":-73.986122,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Canarsie-Rockaway Pkwy",
+         "lat":40.646654,
+         "lng":-73.90185,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Morgan Av",
+         "lat":40.706152,
+         "lng":-73.933147,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Wilson Av",
+         "lat":40.688764,
+         "lng":-73.904046,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Livonia Av",
+         "lat":40.664038,
+         "lng":-73.900571,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"1 Av",
+         "lat":40.730953,
+         "lng":-73.981628,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Bushwick Av-Aberdeen St",
+         "lat":40.682829,
+         "lng":-73.905249,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Montrose Av",
+         "lat":40.707739,
+         "lng":-73.93985,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Bedford Av",
+         "lat":40.717304,
+         "lng":-73.956872,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"East 105 St",
+         "lat":40.650573,
+         "lng":-73.899485,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"New Lots Av and Van Sinderen Av",
+         "lat":40.658733,
+         "lng":-73.899232,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Lorimer St and Metropolitan Av",
+         "lat":40.714063,
+         "lng":-73.950275,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"DeKalb Av and Wyckoff Av",
+         "lat":40.703811,
+         "lng":-73.918425,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"14 St-Union Sq",
+         "lat":40.735736,
+         "lng":-73.990568,
+         "routes":[
+            "4",
+            "5",
+            "6",
+            "L",
+            "N",
+            "Q",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Broadway Junction",
+         "lat":40.678856,
+         "lng":-73.90324,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"Halsey St and Wyckoff Av",
+         "lat":40.695602,
+         "lng":-73.904084,
+         "routes":[
+            "L"
+         ]
+      },
+      {
+         "name":"14 St and 6 Av",
+         "lat":40.738027,
+         "lng":-73.998205,
+         "routes":[
+            "1",
+            "2",
+            "F",
+            "L",
+            "M"
+         ]
+      }
+   ]
+}"Route J":{
+   "stops":[
+      {
+         "name":"Cleveland St",
+         "lat":40.679947,
+         "lng":-73.884639,
+         "routes":[
+            "J"
+         ]
+      },
+      {
+         "name":"Broad St",
+         "lat":40.706476,
+         "lng":-74.011056,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"75 St-Elderts Ln",
+         "lat":40.691324,
+         "lng":-73.867139,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Cypress Hills",
+         "lat":40.689941,
+         "lng":-73.87255,
+         "routes":[
+            "J"
+         ]
+      },
+      {
+         "name":"Bowery",
+         "lat":40.72028,
+         "lng":-73.993915,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Chauncey St",
+         "lat":40.682893,
+         "lng":-73.910456,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Myrtle Av",
+         "lat":40.697207,
+         "lng":-73.935657,
+         "routes":[
+            "J",
+            "M",
+            "Z"
+         ]
+      },
+      {
+         "name":"Sutphin Blvd-Archer Av-JFK Airport",
+         "lat":40.700486,
+         "lng":-73.807969,
+         "routes":[
+            "E",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Crescent St",
+         "lat":40.683194,
+         "lng":-73.873785,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Jamaica Center-Parsons/Archer",
+         "lat":40.702147,
+         "lng":-73.801109,
+         "routes":[
+            "E",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Kosciuszko St",
+         "lat":40.693342,
+         "lng":-73.928814,
+         "routes":[
+            "J"
+         ]
+      },
+      {
+         "name":"Hewes St",
+         "lat":40.70687,
+         "lng":-73.953431,
+         "routes":[
+            "J",
+            "M"
+         ]
+      },
+      {
+         "name":"Norwood Av",
+         "lat":40.68141,
+         "lng":-73.880039,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"121 St",
+         "lat":40.700492,
+         "lng":-73.828294,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Gates Av",
+         "lat":40.68963,
+         "lng":-73.92227,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Alabama Av",
+         "lat":40.676992,
+         "lng":-73.898654,
+         "routes":[
+            "J"
+         ]
+      },
+      {
+         "name":"85 St-Forest Pkwy",
+         "lat":40.692435,
+         "lng":-73.86001,
+         "routes":[
+            "J"
+         ]
+      },
+      {
+         "name":"Marcy Av",
+         "lat":40.708359,
+         "lng":-73.957757,
+         "routes":[
+            "J",
+            "M",
+            "Z"
+         ]
+      },
+      {
+         "name":"Chambers St and Centre St",
+         "lat":40.713243,
+         "lng":-74.003401,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"111 St and Jamaica Av",
+         "lat":40.697418,
+         "lng":-73.836345,
+         "routes":[
+            "J"
+         ]
+      },
+      {
+         "name":"Lorimer St and Broadway",
+         "lat":40.703869,
+         "lng":-73.947408,
+         "routes":[
+            "J",
+            "M"
+         ]
+      },
+      {
+         "name":"Halsey St and Broadway",
+         "lat":40.68637,
+         "lng":-73.916559,
+         "routes":[
+            "J"
+         ]
+      },
+      {
+         "name":"Canal St",
+         "lat":40.718701,
+         "lng":-74.00058,
+         "routes":[
+            "6",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Van Siclen Av and Fulton St",
+         "lat":40.678024,
+         "lng":-73.891688,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Fulton St",
+         "lat":40.710089,
+         "lng":-74.007838,
+         "routes":[
+            "2",
+            "3",
+            "4",
+            "5",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Flushing Av and Broadway",
+         "lat":40.70026,
+         "lng":-73.941126,
+         "routes":[
+            "J",
+            "M"
+         ]
+      },
+      {
+         "name":"104 St and Jamaica Av",
+         "lat":40.695178,
+         "lng":-73.84433,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"104 St and Jamaica Av",
+         "lat":40.695178,
+         "lng":-73.84433,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Woodhaven Blvd and Jamaica Av",
+         "lat":40.693879,
+         "lng":-73.851576,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      }
+   ]
+}"Route N":{
+   "stops":[
+      {
+         "name":"Astoria-Ditmars Blvd",
+         "lat":40.775036,
+         "lng":-73.912034,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"39 Av-Dutch Kills",
+         "lat":40.752882,
+         "lng":-73.932755,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"Coney Island-Stillwell Av",
+         "lat":40.577422,
+         "lng":-73.981233,
+         "routes":[
+            "D",
+            "F",
+            "N",
+            "Q"
+         ]
+      },
+      {
+         "name":"Astoria Blvd",
+         "lat":40.770258,
+         "lng":-73.917843,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"Lexington Av/59 St",
+         "lat":40.76266,
+         "lng":-73.967258,
+         "routes":[
+            "N",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"49 St",
+         "lat":40.759901,
+         "lng":-73.984139,
+         "routes":[
+            "N",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"30 Av",
+         "lat":40.766779,
+         "lng":-73.921479,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"5 Av/59 St",
+         "lat":40.764811,
+         "lng":-73.973347,
+         "routes":[
+            "N",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"New Utrecht Av",
+         "lat":40.624842,
+         "lng":-73.996353,
+         "routes":[
+            "N"
+         ]
+      },
+      {
+         "name":"57 St-7 Av",
+         "lat":40.764664,
+         "lng":-73.980658,
+         "routes":[
+            "N",
+            "Q",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"36 Av",
+         "lat":40.756804,
+         "lng":-73.929575,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Bay Pkwy, Avenue O and 8th St",
+         "lat":40.611815,
+         "lng":-73.981848,
+         "routes":[
+            "N"
+         ]
+      },
+      {
+         "name":"86 St and 7th St",
+         "lat":40.592721,
+         "lng":-73.97823,
+         "routes":[
+            "N"
+         ]
+      },
+      {
+         "name":"14 St-Union Sq",
+         "lat":40.735736,
+         "lng":-73.990568,
+         "routes":[
+            "4",
+            "5",
+            "6",
+            "L",
+            "N",
+            "Q",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Canal St",
+         "lat":40.718701,
+         "lng":-74.00058,
+         "routes":[
+            "6",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"20 Av and 64th St",
+         "lat":40.61741,
+         "lng":-73.985026,
+         "routes":[
+            "N"
+         ]
+      },
+      {
+         "name":"8 Av and 61st St",
+         "lat":40.635064,
+         "lng":-74.011719,
+         "routes":[
+            "N"
+         ]
+      },
+      {
+         "name":"18 Av and 64 St",
+         "lat":40.620671,
+         "lng":-73.990414,
+         "routes":[
+            "N"
+         ]
+      },
+      {
+         "name":"Queensboro Plaza",
+         "lat":40.750582,
+         "lng":-73.940202,
+         "routes":[
+            "7",
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"Avenue U and W 8 St",
+         "lat":40.597473,
+         "lng":-73.979137,
+         "routes":[
+            "N"
+         ]
+      },
+      {
+         "name":"Avenue U and W 8 St",
+         "lat":40.597473,
+         "lng":-73.979137,
+         "routes":[
+            "N"
+         ]
+      },
+      {
+         "name":"Atlantic Av-Barclays Ctr",
+         "lat":40.684162,
+         "lng":-73.977789,
+         "routes":[
+            "2",
+            "3",
+            "4",
+            "5",
+            "B",
+            "D",
+            "N",
+            "Q",
+            "R"
+         ]
+      },
+      {
+         "name":"59 St and 4th Av",
+         "lat":40.641362,
+         "lng":-74.017881,
+         "routes":[
+            "N",
+            "R"
+         ]
+      },
+      {
+         "name":"Broadway and 31st St",
+         "lat":40.76182,
+         "lng":-73.925508,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"Fort Hamilton Pkwy and 62nd St",
+         "lat":40.631386,
+         "lng":-74.005351,
+         "routes":[
+            "N"
+         ]
+      },
+      {
+         "name":"Kings Hwy and 8th St ",
+         "lat":40.603923,
+         "lng":-73.980353,
+         "routes":[
+            "N"
+         ]
+      }
+   ]
+}"Route M":{
+   "stops":[
+      {
+         "name":"5 Av/53 St",
+         "lat":40.760167,
+         "lng":-73.975224,
+         "routes":[
+            "E",
+            "M"
+         ]
+      },
+      {
+         "name":"Northern Blvd",
+         "lat":40.752885,
+         "lng":-73.906006,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Seneca Av",
+         "lat":40.702762,
+         "lng":-73.90774,
+         "routes":[
+            "M"
+         ]
+      },
+      {
+         "name":"Forest Hills-71 Av",
+         "lat":40.721691,
+         "lng":-73.844521,
+         "routes":[
+            "E",
+            "F",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Grand Av-Newtown",
+         "lat":40.737015,
+         "lng":-73.877223,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"46 St",
+         "lat":40.756312,
+         "lng":-73.913333,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Lexington Av/53 St",
+         "lat":40.757552,
+         "lng":-73.969055,
+         "routes":[
+            "E",
+            "M"
+         ]
+      },
+      {
+         "name":"Forest Av",
+         "lat":40.704423,
+         "lng":-73.903077,
+         "routes":[
+            "M"
+         ]
+      },
+      {
+         "name":"47-50 Sts-Rockefeller Ctr",
+         "lat":40.758663,
+         "lng":-73.981329,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Myrtle Av",
+         "lat":40.697207,
+         "lng":-73.935657,
+         "routes":[
+            "J",
+            "M",
+            "Z"
+         ]
+      },
+      {
+         "name":"Elmhurst Av",
+         "lat":40.742454,
+         "lng":-73.882017,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Central Av",
+         "lat":40.697857,
+         "lng":-73.927397,
+         "routes":[
+            "M"
+         ]
+      },
+      {
+         "name":"Court Sq-23 St",
+         "lat":40.747846,
+         "lng":-73.946,
+         "routes":[
+            "E",
+            "M"
+         ]
+      },
+      {
+         "name":"Broadway-Lafayette St",
+         "lat":40.725297,
+         "lng":-73.996204,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Steinway St",
+         "lat":40.756879,
+         "lng":-73.92074,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Fresh Pond Rd",
+         "lat":40.706186,
+         "lng":-73.895877,
+         "routes":[
+            "M"
+         ]
+      },
+      {
+         "name":"42 St-Bryant Pk",
+         "lat":40.754222,
+         "lng":-73.984569,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Jackson Hts-Roosevelt Av",
+         "lat":40.746644,
+         "lng":-73.891338,
+         "routes":[
+            "E",
+            "F",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Knickerbocker Av",
+         "lat":40.698664,
+         "lng":-73.919711,
+         "routes":[
+            "M"
+         ]
+      },
+      {
+         "name":"63 Dr-Rego Park",
+         "lat":40.729846,
+         "lng":-73.861604,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Hewes St",
+         "lat":40.70687,
+         "lng":-73.953431,
+         "routes":[
+            "J",
+            "M"
+         ]
+      },
+      {
+         "name":"67 Av",
+         "lat":40.726523,
+         "lng":-73.852719,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Queens Plaza",
+         "lat":40.748973,
+         "lng":-73.937243,
+         "routes":[
+            "E",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Middle Village-Metropolitan Av",
+         "lat":40.711396,
+         "lng":-73.889601,
+         "routes":[
+            "M"
+         ]
+      },
+      {
+         "name":"65 St",
+         "lat":40.749669,
+         "lng":-73.898453,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Marcy Av",
+         "lat":40.708359,
+         "lng":-73.957757,
+         "routes":[
+            "J",
+            "M",
+            "Z"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Lorimer St and Broadway",
+         "lat":40.703869,
+         "lng":-73.947408,
+         "routes":[
+            "J",
+            "M"
+         ]
+      },
+      {
+         "name":"23 St and 6th Av",
+         "lat":40.742878,
+         "lng":-73.992821,
+         "routes":[
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"14 St and 6 Av",
+         "lat":40.738027,
+         "lng":-73.998205,
+         "routes":[
+            "1",
+            "2",
+            "F",
+            "L",
+            "M"
+         ]
+      },
+      {
+         "name":"Flushing Av and Broadway",
+         "lat":40.70026,
+         "lng":-73.941126,
+         "routes":[
+            "J",
+            "M"
+         ]
+      },
+      {
+         "name":"Myrtle-Wyckoff Avs",
+         "lat":40.69943,
+         "lng":-73.912385,
+         "routes":[
+            "M"
+         ]
+      },
+      {
+         "name":"36 St",
+         "lat":40.752039,
+         "lng":-73.928781,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"34 St-Herald Sq",
+         "lat":40.749719,
+         "lng":-73.987823,
+         "routes":[
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"W 4 St-Wash Sq",
+         "lat":40.732338,
+         "lng":-74.000495,
+         "routes":[
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"Woodhaven Blvd and 59th Av",
+         "lat":40.733106,
+         "lng":-73.869229,
+         "routes":[
+            "M",
+            "R"
+         ]
+      }
+   ]
+}"Route Q":{
+   "stops":[
+      {
+         "name":"W 8 St-NY Aquarium",
+         "lat":40.576127,
+         "lng":-73.975939,
+         "routes":[
+            "F",
+            "Q"
+         ]
+      },
+      {
+         "name":"Parkside Av",
+         "lat":40.655292,
+         "lng":-73.961495,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Neck Rd",
+         "lat":40.595246,
+         "lng":-73.955161,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Newkirk Plaza",
+         "lat":40.635082,
+         "lng":-73.962793,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"Coney Island-Stillwell Av",
+         "lat":40.577422,
+         "lng":-73.981233,
+         "routes":[
+            "D",
+            "F",
+            "N",
+            "Q"
+         ]
+      },
+      {
+         "name":"Sheepshead Bay",
+         "lat":40.586896,
+         "lng":-73.954155,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"Prospect Park",
+         "lat":40.661614,
+         "lng":-73.962246,
+         "routes":[
+            "B",
+            "Q",
+            "S"
+         ]
+      },
+      {
+         "name":"Cortelyou Rd",
+         "lat":40.640927,
+         "lng":-73.963891,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Beverley Rd",
+         "lat":40.644031,
+         "lng":-73.964492,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Brighton Beach",
+         "lat":40.577621,
+         "lng":-73.961376,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"Avenue M",
+         "lat":40.617618,
+         "lng":-73.959399,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Lexington Av/63 St",
+         "lat":40.764629,
+         "lng":-73.966113,
+         "routes":[
+            "F",
+            "Q"
+         ]
+      },
+      {
+         "name":"Avenue J",
+         "lat":40.625039,
+         "lng":-73.960803,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Ocean Pkwy",
+         "lat":40.576312,
+         "lng":-73.968501,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"57 St-7 Av",
+         "lat":40.764664,
+         "lng":-73.980658,
+         "routes":[
+            "N",
+            "Q",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Avenue H",
+         "lat":40.62927,
+         "lng":-73.961639,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"96 St and 2nd Av",
+         "lat":40.784318,
+         "lng":-73.947152,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"86 St and 2nd Av",
+         "lat":40.777891,
+         "lng":-73.951787,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"DeKalb Av and Flatbush Av Ext",
+         "lat":40.690635,
+         "lng":-73.981824,
+         "routes":[
+            "B",
+            "Q",
+            "R"
+         ]
+      },
+      {
+         "name":"14 St-Union Sq",
+         "lat":40.735736,
+         "lng":-73.990568,
+         "routes":[
+            "4",
+            "5",
+            "6",
+            "L",
+            "N",
+            "Q",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Canal St",
+         "lat":40.718701,
+         "lng":-74.00058,
+         "routes":[
+            "6",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Church Av and 18th Street",
+         "lat":40.650527,
+         "lng":-73.962982,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"Avenue U and East 16th St",
+         "lat":40.5993,
+         "lng":-73.955929,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Avenue U and East 16th St",
+         "lat":40.5993,
+         "lng":-73.955929,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Atlantic Av-Barclays Ctr",
+         "lat":40.684162,
+         "lng":-73.977789,
+         "routes":[
+            "2",
+            "3",
+            "4",
+            "5",
+            "B",
+            "D",
+            "N",
+            "Q",
+            "R"
+         ]
+      },
+      {
+         "name":"7 Av and Park Pl",
+         "lat":40.67705,
+         "lng":-73.972367,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      },
+      {
+         "name":"72 St and 2nd Av",
+         "lat":40.768799,
+         "lng":-73.958424,
+         "routes":[
+            "Q"
+         ]
+      },
+      {
+         "name":"Kings Hwy and E 15th St",
+         "lat":40.60867,
+         "lng":-73.957734,
+         "routes":[
+            "B",
+            "Q"
+         ]
+      }
+   ]
+}"Route R":{
+   "stops":[
+      {
+         "name":"Northern Blvd",
+         "lat":40.752885,
+         "lng":-73.906006,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Cortlandt St",
+         "lat":40.710668,
+         "lng":-74.011029,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Forest Hills-71 Av",
+         "lat":40.721691,
+         "lng":-73.844521,
+         "routes":[
+            "E",
+            "F",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Grand Av-Newtown",
+         "lat":40.737015,
+         "lng":-73.877223,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Lexington Av/59 St",
+         "lat":40.76266,
+         "lng":-73.967258,
+         "routes":[
+            "N",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"46 St",
+         "lat":40.756312,
+         "lng":-73.913333,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Bay Ridge-95 St",
+         "lat":40.616622,
+         "lng":-74.030876,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"53 St",
+         "lat":40.645069,
+         "lng":-74.014034,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"49 St",
+         "lat":40.759901,
+         "lng":-73.984139,
+         "routes":[
+            "N",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Elmhurst Av",
+         "lat":40.742454,
+         "lng":-73.882017,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"45 St",
+         "lat":40.648939,
+         "lng":-74.010006,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"Whitehall St-South Ferry",
+         "lat":40.703087,
+         "lng":-74.012994,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Union St",
+         "lat":40.677316,
+         "lng":-73.98311,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"5 Av/59 St",
+         "lat":40.764811,
+         "lng":-73.973347,
+         "routes":[
+            "N",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Steinway St",
+         "lat":40.756879,
+         "lng":-73.92074,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Jackson Hts-Roosevelt Av",
+         "lat":40.746644,
+         "lng":-73.891338,
+         "routes":[
+            "E",
+            "F",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Bay Ridge Av",
+         "lat":40.634967,
+         "lng":-74.023377,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"63 Dr-Rego Park",
+         "lat":40.729846,
+         "lng":-73.861604,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"Prince St",
+         "lat":40.724329,
+         "lng":-73.997702,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Court St",
+         "lat":40.6941,
+         "lng":-73.991777,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"57 St-7 Av",
+         "lat":40.764664,
+         "lng":-73.980658,
+         "routes":[
+            "N",
+            "Q",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"67 Av",
+         "lat":40.726523,
+         "lng":-73.852719,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"25 St",
+         "lat":40.660397,
+         "lng":-73.998091,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"City Hall",
+         "lat":40.713282,
+         "lng":-74.006978,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Queens Plaza",
+         "lat":40.748973,
+         "lng":-73.937243,
+         "routes":[
+            "E",
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"65 St",
+         "lat":40.749669,
+         "lng":-73.898453,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"8 St-NYU",
+         "lat":40.730328,
+         "lng":-73.992629,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"28 St and Broadway",
+         "lat":40.745494,
+         "lng":-73.988691,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"23 St and Broadway",
+         "lat":40.741303,
+         "lng":-73.989344,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"86 St and 4th Av",
+         "lat":40.622687,
+         "lng":-74.028398,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"DeKalb Av and Flatbush Av Ext",
+         "lat":40.690635,
+         "lng":-73.981824,
+         "routes":[
+            "B",
+            "Q",
+            "R"
+         ]
+      },
+      {
+         "name":"14 St-Union Sq",
+         "lat":40.735736,
+         "lng":-73.990568,
+         "routes":[
+            "4",
+            "5",
+            "6",
+            "L",
+            "N",
+            "Q",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Canal St",
+         "lat":40.718701,
+         "lng":-74.00058,
+         "routes":[
+            "6",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Prospect Av and 4th Av",
+         "lat":40.665414,
+         "lng":-73.992872,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"Rector St",
+         "lat":40.70722,
+         "lng":-74.013342,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"77 St and Fourth Av",
+         "lat":40.629742,
+         "lng":-74.02551,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"77 St and Fourth Av",
+         "lat":40.629742,
+         "lng":-74.02551,
+         "routes":[
+            "R"
+         ]
+      },
+      {
+         "name":"Atlantic Av-Barclays Ctr",
+         "lat":40.684162,
+         "lng":-73.977789,
+         "routes":[
+            "2",
+            "3",
+            "4",
+            "5",
+            "B",
+            "D",
+            "N",
+            "Q",
+            "R"
+         ]
+      },
+      {
+         "name":"36 St",
+         "lat":40.752039,
+         "lng":-73.928781,
+         "routes":[
+            "M",
+            "R"
+         ]
+      },
+      {
+         "name":"59 St and 4th Av",
+         "lat":40.641362,
+         "lng":-74.017881,
+         "routes":[
+            "N",
+            "R"
+         ]
+      },
+      {
+         "name":"Woodhaven Blvd and 59th Av",
+         "lat":40.733106,
+         "lng":-73.869229,
+         "routes":[
+            "M",
+            "R"
+         ]
+      }
+   ]
+}"Route W":{
+   "stops":[
+      {
+         "name":"Astoria-Ditmars Blvd",
+         "lat":40.775036,
+         "lng":-73.912034,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"39 Av-Dutch Kills",
+         "lat":40.752882,
+         "lng":-73.932755,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"Cortlandt St",
+         "lat":40.710668,
+         "lng":-74.011029,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Astoria Blvd",
+         "lat":40.770258,
+         "lng":-73.917843,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"Lexington Av/59 St",
+         "lat":40.76266,
+         "lng":-73.967258,
+         "routes":[
+            "N",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"49 St",
+         "lat":40.759901,
+         "lng":-73.984139,
+         "routes":[
+            "N",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"30 Av",
+         "lat":40.766779,
+         "lng":-73.921479,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"Whitehall St-South Ferry",
+         "lat":40.703087,
+         "lng":-74.012994,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"5 Av/59 St",
+         "lat":40.764811,
+         "lng":-73.973347,
+         "routes":[
+            "N",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Prince St",
+         "lat":40.724329,
+         "lng":-73.997702,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"57 St-7 Av",
+         "lat":40.764664,
+         "lng":-73.980658,
+         "routes":[
+            "N",
+            "Q",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"City Hall",
+         "lat":40.713282,
+         "lng":-74.006978,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"36 Av",
+         "lat":40.756804,
+         "lng":-73.929575,
+         "routes":[
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"8 St-NYU",
+         "lat":40.730328,
+         "lng":-73.992629,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      },
+      {
+         "name":"28 St and Broadway",
+         "lat":40.745494,
+         "lng":-73.988691,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"23 St and Broadway",
+         "lat":40.741303,
+         "lng":-73.989344,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"14 St-Union Sq",
+         "lat":40.735736,
+         "lng":-73.990568,
+         "routes":[
+            "4",
+            "5",
+            "6",
+            "L",
+            "N",
+            "Q",
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Canal St",
+         "lat":40.718701,
+         "lng":-74.00058,
+         "routes":[
+            "6",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Rector St",
+         "lat":40.70722,
+         "lng":-74.013342,
+         "routes":[
+            "R",
+            "W"
+         ]
+      },
+      {
+         "name":"Queensboro Plaza",
+         "lat":40.750582,
+         "lng":-73.940202,
+         "routes":[
+            "7",
+            "N",
+            "W"
+         ]
+      },
+      {
+         "name":"Broadway and 31st St",
+         "lat":40.76182,
+         "lng":-73.925508,
+         "routes":[
+            "N",
+            "W"
+         ]
+      }
+   ]
+}"Route S":{
+   "stops":[
+      {
+         "name":"Beach 105 St",
+         "lat":40.583209,
+         "lng":-73.827559,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Beach 98 St",
+         "lat":40.585307,
+         "lng":-73.820558,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Prospect Park",
+         "lat":40.661614,
+         "lng":-73.962246,
+         "routes":[
+            "B",
+            "Q",
+            "S"
+         ]
+      },
+      {
+         "name":"Botanic Garden",
+         "lat":40.670343,
+         "lng":-73.959245,
+         "routes":[
+            "S"
+         ]
+      },
+      {
+         "name":"Broad Channel",
+         "lat":40.608382,
+         "lng":-73.815925,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Rockaway Park-Beach 116 St",
+         "lat":40.580903,
+         "lng":-73.835592,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Park Pl",
+         "lat":40.674772,
+         "lng":-73.957624,
+         "routes":[
+            "S"
+         ]
+      },
+      {
+         "name":"Beach 90 St",
+         "lat":40.588034,
+         "lng":-73.813641,
+         "routes":[
+            "A",
+            "S"
+         ]
+      },
+      {
+         "name":"Franklin Av",
+         "lat":40.680596,
+         "lng":-73.955827,
+         "routes":[
+            "S"
+         ]
+      },
+      {
+         "name":"Times Sq-42 St",
+         "lat":40.755356,
+         "lng":-73.987042,
+         "routes":[
+            "1",
+            "2",
+            "3",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "S",
+            "7",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "F",
+            "M"
+         ]
+      }
+   ]
+}"Route Z":{
+   "stops":[
+      {
+         "name":"Broad St",
+         "lat":40.706476,
+         "lng":-74.011056,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"75 St-Elderts Ln",
+         "lat":40.691324,
+         "lng":-73.867139,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Bowery",
+         "lat":40.72028,
+         "lng":-73.993915,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Chauncey St",
+         "lat":40.682893,
+         "lng":-73.910456,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Myrtle Av",
+         "lat":40.697207,
+         "lng":-73.935657,
+         "routes":[
+            "J",
+            "M",
+            "Z"
+         ]
+      },
+      {
+         "name":"Sutphin Blvd-Archer Av-JFK Airport",
+         "lat":40.700486,
+         "lng":-73.807969,
+         "routes":[
+            "E",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Crescent St",
+         "lat":40.683194,
+         "lng":-73.873785,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Jamaica Center-Parsons/Archer",
+         "lat":40.702147,
+         "lng":-73.801109,
+         "routes":[
+            "E",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Norwood Av",
+         "lat":40.68141,
+         "lng":-73.880039,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"121 St",
+         "lat":40.700492,
+         "lng":-73.828294,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Gates Av",
+         "lat":40.68963,
+         "lng":-73.92227,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Marcy Av",
+         "lat":40.708359,
+         "lng":-73.957757,
+         "routes":[
+            "J",
+            "M",
+            "Z"
+         ]
+      },
+      {
+         "name":"Chambers St and Centre St",
+         "lat":40.713243,
+         "lng":-74.003401,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Canal St",
+         "lat":40.718701,
+         "lng":-74.00058,
+         "routes":[
+            "6",
+            "N",
+            "Q",
+            "R",
+            "W",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Van Siclen Av and Fulton St",
+         "lat":40.678024,
+         "lng":-73.891688,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Fulton St",
+         "lat":40.710089,
+         "lng":-74.007838,
+         "routes":[
+            "2",
+            "3",
+            "4",
+            "5",
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"104 St and Jamaica Av",
+         "lat":40.695178,
+         "lng":-73.84433,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"104 St and Jamaica Av",
+         "lat":40.695178,
+         "lng":-73.84433,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      },
+      {
+         "name":"Woodhaven Blvd and Jamaica Av",
+         "lat":40.693879,
+         "lng":-73.851576,
+         "routes":[
+            "J",
+            "Z"
+         ]
+      }
+   ]
+}"Route SIR":{
+   "stops":[
+      {
+         "name":"Grasmere",
+         "lat":40.603117,
+         "lng":-74.084087,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Dongan Hills",
+         "lat":40.588849,
+         "lng":-74.09609,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"St George",
+         "lat":40.643748,
+         "lng":-74.073643,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Pleasant Plains",
+         "lat":40.52241,
+         "lng":-74.217847,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Oakwood Heights",
+         "lat":40.56511,
+         "lng":-74.12632,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Old Town",
+         "lat":40.596612,
+         "lng":-74.087368,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"New Dorp",
+         "lat":40.57348,
+         "lng":-74.11721,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Richmond Valley",
+         "lat":40.519631,
+         "lng":-74.229141,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Eltingville",
+         "lat":40.544601,
+         "lng":-74.16457,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Tompkinsville",
+         "lat":40.636949,
+         "lng":-74.074835,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Annadale",
+         "lat":40.54046,
+         "lng":-74.178217,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Stapleton",
+         "lat":40.627915,
+         "lng":-74.075162,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Tottenville",
+         "lat":40.512764,
+         "lng":-74.251961,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Grant City",
+         "lat":40.578965,
+         "lng":-74.109704,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Huguenot",
+         "lat":40.533674,
+         "lng":-74.191794,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Great Kills",
+         "lat":40.551231,
+         "lng":-74.151399,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Jefferson Av",
+         "lat":40.583591,
+         "lng":-74.103338,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Arthur Kill",
+         "lat":40.516578,
+         "lng":-74.242096,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Clifton",
+         "lat":40.621319,
+         "lng":-74.071402,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Bay Terrace",
+         "lat":40.5564,
+         "lng":-74.136907,
+         "routes":[
+            "SIR"
+         ]
+      },
+      {
+         "name":"Prince's Bay",
+         "lat":40.525507,
+         "lng":-74.200064,
+         "routes":[
+            "SIR"
+         ]
+      }
+   ]
+}
