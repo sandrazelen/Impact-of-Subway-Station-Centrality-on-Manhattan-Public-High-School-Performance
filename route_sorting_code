@@ -42,7 +42,7 @@ def sort_by_route(data):
 
 def print_routes(routes_dict):
     for route, entries in routes_dict.items():
-        print(f"Route {route}:")
+        print(f"{route}:")
         route_dict = {"stops": entries}
         print(route_dict)
         print()  # Print a blank line to separate route entries
