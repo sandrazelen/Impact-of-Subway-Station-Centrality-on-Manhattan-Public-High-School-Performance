@@ -1,0 +1,63 @@
+import json
+
+route_names = ['1','2','3','4','5','6','7','A', 'B', 'C', 'D', 'E', 'F', 'G', 'L', 'J', 'N', 'M', 'Q', 'R', 'W', 'S', 'Z', 'SIR']
+
+def reformat_JSON(filename):
+    try:
+        with open(filename, mode='r', encoding='utf-8-sig') as file:
+            data = json.load(file)  # Parse JSON content into Python list
+
+        # Reformat and convert types in the data
+        for entry in data:
+            entry["name"] = entry.pop("name")  # Rename key
+            entry["lat"] = float(entry.pop("lat"))  # Convert to float
+            entry["lng"] = float(entry.pop("lng"))  # Convert to float
+
+            # Move routes to the last position
+            routes = entry.pop("routes", [])  # Ensure routes is treated as a list
+            entry["routes"] = routes  # Assign routes as last item in entry
+
+    except FileNotFoundError as e:
+        print(f"Error: {e}")
+        return {}
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON file: {e}")
+        return {}
+    except Exception as e:
+        print(f"Unexpected error: {e}")
+        return {}
+
+    return data
+
+def sort_by_route(data):
+    route_dict = {route: [] for route in route_names}  # Initialize a dictionary with route names as keys
+
+    for entry in data:
+        routes = entry.get("routes", [])
+        for route in route_names:
+            if route in routes:
+                route_dict[route].append(entry)
+
+    return route_dict  # Returns a dictionary categorizing stops by route
+
+def print_routes(routes_dict):
+    for route, entries in routes_dict.items():
+        print(f"Route {route}:")
+        route_dict = {"stops": entries}
+        print(route_dict)
+        print()  # Print a blank line to separate route entries
+
+def main():
+    # Reformat JSON data
+    routes_and_stops = reformat_JSON(r"C:\Users\Kathy Xu\Downloads\updated_routes_and_stops.json")
+    
+    # Proceed if data is not empty or None
+    if routes_and_stops:
+        # Sort by route
+        sorted_routes = sort_by_route(routes_and_stops)
+        
+        # Print the formatted routes dictionary
+        print_routes(sorted_routes)
+
+if __name__ == "__main__":
+    main()
