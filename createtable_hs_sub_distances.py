@@ -47,21 +47,4 @@ if __name__ == "__main__":
     main()
     
     
-"""
-    
-    for origin in d['origin_addresses']:
-        j=0
-        for destination in d['destination_addresses']:
-            measure_dict = (d['rows'][i])['elements'][j]
-            #print(measure_dict)
-            new_dict = {'origin':origin, 'destination':destination, 'distance': measure_dict['distance'], 'duration': measure_dict['duration']}
-            print(new_dict)
-            j+=1
-        
-        i+=1
-            
-if __name__ == "__main__":
-    main()
-
-"""
 
