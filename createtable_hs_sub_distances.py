@@ -4,7 +4,9 @@ def main():
     #filename = f"C:/Users/misss/OneDrive/Desktop/csuremm/CSUREMM/output-onlinetexttools_.txt"
     #filename =f"C:/Users/misss/Downloads/output-onlinetexttools_walking.txt"
     #filename = f"C:/Users/misss/OneDrive/Desktop/csuremm/CSUREMM/hs_subway_walkingdist_finalversion_quotes.json"
-    filename = f"C:/Users/misss/OneDrive/Desktop/csuremm/CSUREMM/oneline_final.txt"
+    #filename = f"C:/Users/misss/OneDrive/Desktop/csuremm/CSUREMM/oneline_final.txt"
+    #filename = f"C:/Users/misss/OneDrive/Desktop/csuremm/CSUREMM/twoline.txt"
+    filename = f"C:/Users/misss/OneDrive/Desktop/csuremm/CSUREMM/lline.txt"
     with open(filename, 'r', encoding='utf-8-sig') as f:
         file_content = f.readlines()  
     
@@ -28,10 +30,10 @@ def main():
             for j, element in enumerate(elements):
                 distancekm = element['distance']['text']
                 distancem = element['distance']['value']
-                duration = element['duration']['text']
-                
+                durationmin = element['duration']['text']
+                durationsec = element['duration']['value']
                 # Print or process the information as needed
-                origin = origin_addresses[0]  # Since origin_addresses is a list with one item
+                origin = origin_addresses[0]  
                 destination = destination_addresses[j]
                 
                 new_dict = {
@@ -39,12 +41,12 @@ def main():
                     'destination': destination,
                     'distancekm': distancekm,
                     'distancem': distancem,
-                    'duration': duration
+                    'durationmin': durationmin,
+                    'durationsec': durationsec
                 }
                 print(new_dict,",")
 
 if __name__ == "__main__":
     main()
     
-    
-
+  
