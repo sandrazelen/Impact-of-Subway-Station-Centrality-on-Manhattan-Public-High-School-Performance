@@ -46,6 +46,7 @@ eigenvector_centrality = nx.eigenvector_centrality(G)
 
 # Extract positions for node labels
 pos = nx.get_node_attributes(G, 'pos')
+data = 'Centrality Measures by Stop:'
 
 # Assign colors based on normalized betweenness centrality
 node_colors = []
@@ -54,5 +55,12 @@ for node in G.nodes():
     betweenness_value = round(betweenness_centrality[node], 4)
     closeness_value = round(closeness_centrality[node], 4)
     eigenvector_value = round(eigenvector_centrality[node], 4)
-    print("\n" + str(node) + "\n\tDegree Centrality: " + str(degree_value) + "\n\tBetweenness Centrality: " + str(betweenness_value) + "\n\tCloseness Centrality: " + str(closeness_value) + "\n\tEigenvector Centrality " + str(eigenvector_value))
+    data += "\n" + str(node) + "\n\tDegree Centrality: " + str(degree_value) + "\n\tBetweenness Centrality: " + str(betweenness_value) + "\n\tCloseness Centrality: " + str(closeness_value) + "\n\tEigenvector Centrality " + str(eigenvector_value)
+
+# Prints centrality measures to a txt file
+with open("output.txt", "w") as file:
+    # Write the data to the file
+    print(data, file=file)
+
+print(data)
 
