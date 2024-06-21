@@ -1,0 +1,401 @@
+Node,Betweenness Centrality
+Van Cortlandt Park-242 St,0.0
+238 St,0.005013
+231 St,0.01
+Marble Hill-225 St,0.014962
+215 St,0.019899
+207 St,0.024811
+Dyckman St and Nagle Av,0.029697
+191 St,0.034559
+181 St and St Nicholas Av,0.039395
+168 St-Washington Hts,0.044206
+157 St,0.048992
+145 St and Broadway,0.053752
+137 St-City College,0.058488
+125 St and Broadway,0.063198
+116 St-Columbia University,0.067883
+Cathedral Pkwy (110 St) and Broadway,0.072543
+103 St and Broadway,0.077178
+96 St and Broadway,0.100345
+86 St and Broadway,0.000313
+79 St and Broadway,0.002016
+72 St and Broadway,0.098624
+66 St-Lincoln Center,0.007745
+59 St-Columbus Circle,0.12218
+50 St and Broadway,0.061181
+Times Sq-42 St,0.257345
+34 St-Penn Station,0.078547
+28 St and 7th Av,0.00372
+23 St and 7th Av,1.3e-05
+18 St,0.00128
+14 St and 6 Av,0.063735
+Christopher St-Sheridan Sq,0.005196
+Houston St,0.001234
+Canal St and Varick St,0.001025
+Franklin St,0.004779
+Chambers St and West Broadway,0.062184
+WTC Cortlandt,0.043826
+Rector St,0.111329
+South Ferry,0.099974
+Wakefield-241 St,0.0
+Nereid Av,0.005013
+233 St,0.01
+225 St,0.014962
+219 St,0.019899
+Gun Hill Rd and White Plains Rd,0.024811
+Burke Av,0.029697
+Allerton Av,0.034559
+Pelham Pkwy and White Plains Rd,0.039395
+Bronx Park East,0.044206
+E 180 St,0.073173
+West Farms Sq-E Tremont Av,0.077178
+174 St,0.081787
+Freeman St,0.086372
+Simpson St,0.090931
+Intervale Av,0.095465
+Prospect Av and Westchester Av,0.099974
+Jackson Av,0.104457
+3 Av-149 St,0.108916
+149 St-Grand Concourse,0.194815
+135 St and Lenox Av,0.028553
+125 St and Malcom X Blvd,0.021183
+116 St and Malcom X Blvd,0.023868
+Central Park North (110 St),0.026832
+Park Place,0.015871
+Fulton St,0.045441
+Wall St and William St,0.003975
+Clark St,0.000604
+Borough Hall,0.003433
+Hoyt St,0.0
+Nevins St,0.012565
+Atlantic Av-Barclays Ctr,0.336654
+Bergen St and Flatbush Av,0.004811
+Grand Army Plaza,1.3e-05
+Eastern Pkwy-Brooklyn Museum,0.000189
+Franklin Av-Medgar Evers College,0.069869
+President St-Medgar Evers College,0.012038
+Sterling St,0.007542
+Winthrop St,0.003167
+Church Av and Nostrand Av,0.001068
+Beverly Rd,0.015585
+Newkirk Av-Little Haiti,0.005013
+Flatbush Av-Brooklyn College,0.0
+Harlem-148 St,0.0
+Lenox Av and W 145 St,0.005013
+Nostrand Av and Eastern Pkwy,0.002456
+Kingston Av,5e-05
+Crown Hts-Utica Av,0.037015
+Sutter Av-Rutland Rd,0.029697
+Saratoga Av,0.024811
+Rockaway Av and Livonia Av,0.019899
+Junius St,0.014962
+Pennsylvania Av,0.01
+Van Siclen Av and Livonia Av,0.005013
+New Lots Av and Warwick St,0.0
+Woodlawn,0.0
+Mosholu Pkwy,0.005013
+Bedford Park Blvd-Lehman College,0.01
+Kingsbridge Rd and Jerome Av,0.014962
+Fordham Rd and Jerome Av,0.019899
+183 St,0.024811
+Burnside Av,0.029697
+176 St,0.034559
+Mt Eden Av,0.039395
+170 St and Jerome Av,0.044206
+167 St and River Av,0.048992
+161 St-Yankee Stadium,0.125324
+138 St-Grand Concourse,0.153121
+125 St and Lexington Av,0.229394
+86 St and Lexington Av,0.222254
+59 St and Lexington Av,0.227793
+Grand Central-42 St,0.303321
+14 St-Union Sq,0.413125
+Brooklyn Bridge-City Hall,0.024869
+Wall St and Broadway,0.003975
+Bowling Green,0.000604
+Eastchester-Dyre Av,0.0
+Baychester Av,0.005013
+Gun Hill Rd and Sexton Pl,0.01
+Pelham Pkwy and Laconia Av,0.014962
+Morris Park,0.019899
+Pelham Bay Park,0.0
+Buhre Av,0.005013
+Middletown Rd,0.01
+Westchester Sq-E Tremont Av,0.014962
+Zerega Av,0.019899
+Castle Hill Av,0.024811
+Parkchester,0.029697
+St Lawrence Av,0.034559
+Morrison Av-Soundview,0.039395
+Elder Av,0.044206
+Whitlock Av,0.048992
+Hunts Point Av,0.053752
+Longwood Av,0.058488
+E 149 St,0.063198
+E 143 St-St Mary's St,0.067883
+Cypress Av,0.072543
+Brook Av,0.077178
+3 Av-138 St,0.081787
+116 St and Lexington Av,0.003637
+110 St,0.000556
+103 St and Lexington,0.001907
+96 St and Lexington Av,0.006338
+77 St and Lexington Av,0.000521
+68 St-Hunter College,0.001948
+51 St,0.0
+33 St,0.001978
+28 St and Park Av S,1.3e-05
+23 St and Park Av S,0.003022
+Astor Pl,0.002747
+Bleecker St,1.3e-05
+Spring St and Lafayette,0.002253
+Canal St,0.40138
+Flushing-Main St,0.0
+Mets-Willets Point,0.005013
+111 St and Roosevelt Av,0.01
+103 St-Corona Plaza,0.014962
+Junction Blvd,0.019899
+90 St-Elmhurst Av,0.024811
+82 St-Jackson Hts,0.029697
+74 St-Broadway,0.034559
+69 St,0.039395
+61 St-Woodside,0.044206
+52 St,0.048992
+46 St-Bliss St,0.053752
+40 St-Lowery St,0.058488
+33 St-Rawson St,0.063198
+Queensboro Plaza,0.108314
+Court Sq,0.09279
+Hunters Point Av,0.087647
+Vernon Blvd-Jackson Av,0.091211
+5 Av,0.028017
+34 St-Hudson Yards,0.0
+Inwood-207 St,0.0
+Dyckman St and Broadway,0.005013
+190 St,0.01
+181 St and Fort Washington Av,0.014962
+175 St,0.019899
+168 St,0.027279
+145 St and St Nicholas Av,0.093853
+125 St and St Nicholas Av,0.103179
+42 St-Port Authority Bus Terminal,0.030379
+14 St and 8 Av,0.008136
+W 4 St-Wash Sq,0.02514
+Canal St and 6th Ave,0.00738
+Chambers St and Church St,0.003329
+High St,0.013705
+Jay St-MetroTech,0.19876
+Hoyt-Schermerhorn Sts,0.202007
+Nostrand Av and Fulton St,0.161769
+Utica Av,0.149905
+Broadway Junction,0.148563
+Euclid Av,0.1002
+Grant Av,0.090931
+80 St,0.086372
+88 St,0.081787
+Rockaway Blvd,0.077178
+104 St and Liberty Av,0.072543
+111 St and Liberty Av,0.067883
+Ozone Park-Lefferts Blvd,0.063198
+Aqueduct Racetrack,0.058488
+Howard Beach-JFK Airport,0.053752
+Broad Channel,0.049294
+Beach 67 St,0.024811
+Beach 60 St,0.019899
+Beach 44 St,0.014962
+Beach 36 St,0.01
+Beach 25 St,0.005013
+Far Rockaway-Mott Av,0.0
+Beach 90 St,0.014962
+Beach 98 St,0.01
+Beach 105 St,0.005013
+Rockaway Park-Beach 116 St,0.0
+Bedford Park Blvd,0.005013
+Kingsbridge Rd and Grand Concourse,0.01
+Fordham Rd and Grand Concourse,0.014962
+182-183 Sts,0.019899
+Tremont Av,0.024811
+174-175 Sts,0.029697
+170 St and Grand Concourse,0.034559
+167 St and Tudor Pl,0.039395
+155 St and Frederick Douglas Blvd,0.059448
+135 St and St. Nicholas Av,0.0
+116 St and Frederick Douglass Blvd,0.010963
+Cathedral Pkwy (110 St) and Frederick Douglass Blvd,0.006039
+103 St and Central Park W,0.001115
+96 St and Central Park W,7.6e-05
+86 St and Central Park W,0.003961
+81 St-Museum of Natural History,0.008885
+72 St and Central Park W,0.01381
+7 Av and 53rd St,0.031658
+47-50 Sts-Rockefeller Ctr,0.008756
+42 St-Bryant Pk,0.012159
+34 St-Herald Sq,0.175125
+Broadway-Lafayette St,0.01349
+Grand St,0.014207
+DeKalb Av and Flatbush Av Ext,0.169739
+7 Av and Park Pl,0.097752
+Prospect Park,0.093369
+Church Av and 18th Street,0.085468
+Newkirk Plaza,0.063852
+Kings Hwy and E 15th St,0.04809
+Sheepshead Bay,0.031944
+Brighton Beach,0.024997
+163 St-Amsterdam Av,3.8e-05
+155 St and St Nicholas Av,0.002468
+50 St and 8th Av,0.000993
+23 St and 8th Av,0.0
+Spring St and 6th Av,0.0
+Lafayette Av,0.004421
+Clinton-Washington Avs and Lafayette Av,1.3e-05
+Franklin Av and Fulton St,0.000579
+Kingston-Throop Avs,0.0
+Ralph Av,0.002202
+Rockaway Av and Fulton St,0.000277
+Liberty Av,0.004735
+Van Siclen Av and Pitkin Av,1.3e-05
+Shepherd Av,0.000264
+Norwood-205 St,0.0
+36 St and Fourth Av,0.124659
+9 Av,0.044632
+Fort Hamilton Pkwy and 44th St,0.039901
+50 St and New Utrecht Av,0.035191
+55 St,0.030505
+62 St,0.02585
+71 St,0.021247
+79 St and New Utrecht Av,0.016725
+18 Av and 85 St,0.012309
+20 Av and 86th St,0.008004
+Bay Pkwy and 86th St,0.003776
+25 Av,0.001781
+Bay 50 St,0.00425
+Coney Island-Stillwell Av,0.012472
+Jamaica Center-Parsons/Archer,0.0
+Sutphin Blvd-Archer Av-JFK Airport,0.017101
+Jamaica-Van Wyck,0.018428
+Briarwood,0.022057
+Kew Gardens-Union Tpke,0.025835
+75 Av,0.029739
+Forest Hills-71 Av,0.04263
+Jackson Hts-Roosevelt Av,0.069126
+Queens Plaza,0.090184
+Court Sq-23 St,0.021268
+Lexington Av/53 St,0.022902
+5 Av/53 St,0.026374
+World Trade Center,0.0
+21 St,0.020658
+Greenpoint Av,0.016114
+Nassau Av,0.012092
+Metropolitan Av,0.008598
+Broadway and Union Av,0.006717
+Flushing Av and Union Av,0.006447
+Myrtle-Willoughby Avs,0.007698
+Bedford-Nostrand Avs,0.010834
+Classon Av,0.014612
+Clinton-Washington Avs and Fulton St,0.018781
+Fulton St and Lafayette Av,0.023434
+Bergen St and Warren St,0.006555
+Carroll St,0.004381
+Smith-9 Sts,0.006334
+4 Av-9 St,0.026992
+7 Av and 9th St,0.014962
+15 St-Prospect Park,0.01
+Fort Hamilton Pkwy and Prospect Av,0.005013
+Church Av and McDonald Av,0.0
+Astoria-Ditmars Blvd,0.0
+Astoria Blvd,0.005013
+30 Av,0.01
+Broadway and 31st St,0.014962
+36 Av,0.019899
+39 Av-Dutch Kills,0.024811
+Lexington Av/59 St,0.104708
+5 Av/59 St,0.092347
+57 St-7 Av,0.112964
+49 St,0.0
+59 St and 4th Av,0.061822
+8 Av and 61st St,0.035416
+Fort Hamilton Pkwy and 62nd St,0.030731
+New Utrecht Av,0.026075
+18 Av and 64 St,0.021472
+20 Av and 64th St,0.016951
+"Bay Pkwy, Avenue O and 8th St",0.012534
+Kings Hwy and 8th St ,0.008229
+Avenue U and W 8 St,0.004002
+86 St and 7th St,0.001977
+96 St and 2nd Av,0.0
+86 St and 2nd Av,0.005013
+72 St and 2nd Av,0.01
+Lexington Av/63 St,0.014962
+Parkside Av,0.0
+Cortelyou Rd,0.000789
+Avenue H,0.004761
+Avenue J,1.3e-05
+Avenue M,0.000239
+Avenue U and East 16th St,0.002389
+Neck Rd,0.000109
+Ocean Pkwy,0.020463
+W 8 St-NY Aquarium,0.015983
+67 Av,0.005325
+63 Dr-Rego Park,0.000376
+Woodhaven Blvd and 59th Av,3.8e-05
+Grand Av-Newtown,0.004649
+Elmhurst Av,0.009599
+65 St,0.005233
+Northern Blvd,0.000283
+46 St,3.8e-05
+Steinway St,0.004742
+36 St,0.009691
+28 St and Broadway,0.000623
+23 St and Broadway,0.001549
+8 St-NYU,0.001319
+Prince St,0.00106
+City Hall,0.03203
+Cortlandt St,0.028511
+Whitehall St-South Ferry,0.047117
+Court St,0.018283
+Union St,0.058997
+Prospect Av and 4th Av,0.001744
+25 St,0.001557
+45 St,0.002401
+53 St,9.6e-05
+Bay Ridge Av,0.014962
+77 St and Fourth Av,0.01
+86 St and 4th Av,0.005013
+Bay Ridge-95 St,0.0
+121 St,0.012284
+104 St and Jamaica Av,0.012091
+Woodhaven Blvd and Jamaica Av,0.012928
+75 St-Elderts Ln,0.015346
+Crescent St,0.018862
+Norwood Av,0.022781
+Van Siclen Av and Fulton St,0.027006
+Alabama Av,0.031421
+Chauncey St,0.002953
+Gates Av,0.00524
+Myrtle Av,0.008748
+Marcy Av,0.012469
+Delancey St-Essex St,0.016374
+Bowery,0.020353
+Chambers St and Centre St,0.005164
+Broad St,0.0
+St George,0.095465
+Tompkinsville,0.090931
+Stapleton,0.086372
+Clifton,0.081787
+Grasmere,0.077178
+Old Town,0.072543
+Dongan Hills,0.067883
+Jefferson Av,0.063198
+Grant City,0.058488
+New Dorp,0.053752
+Oakwood Heights,0.048992
+Bay Terrace,0.044206
+Great Kills,0.039395
+Eltingville,0.034559
+Annadale,0.029697
+Huguenot,0.024811
+Prince's Bay,0.019899
+Pleasant Plains,0.014962
+Richmond Valley,0.01
+Arthur Kill,0.005013
+Tottenville,0.0
