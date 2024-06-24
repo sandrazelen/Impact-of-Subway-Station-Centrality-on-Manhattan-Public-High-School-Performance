@@ -1,0 +1,401 @@
+Node,degree Centrality
+Van Cortlandt Park-242 St,1.0
+238 St,2.0
+231 St,2.0
+Marble Hill-225 St,2.0
+215 St,2.0
+207 St,2.0
+Dyckman St and Nagle Av,2.0
+191 St,2.0
+181 St and St Nicholas Av,2.0
+168 St-Washington Hts,2.0
+157 St,2.0
+145 St and Broadway,2.0
+137 St-City College,2.0
+125 St and Broadway,2.0
+116 St-Columbia University,2.0
+Cathedral Pkwy (110 St) and Broadway,2.0
+103 St and Broadway,2.0
+96 St and Broadway,4.0
+86 St and Broadway,2.0
+79 St and Broadway,2.0
+72 St and Broadway,4.0
+66 St-Lincoln Center,2.0
+59 St-Columbus Circle,7.0
+50 St and Broadway,2.0
+Times Sq-42 St,9.0
+34 St-Penn Station,6.0
+28 St and 7th Av,2.0
+23 St and 7th Av,2.0
+18 St,2.0
+14 St and 6 Av,4.0
+Christopher St-Sheridan Sq,2.0
+Houston St,2.0
+Canal St and Varick St,2.0
+Franklin St,2.0
+Chambers St and West Broadway,4.0
+WTC Cortlandt,2.0
+Rector St,4.0
+South Ferry,2.0
+Wakefield-241 St,1.0
+Nereid Av,2.0
+233 St,2.0
+225 St,2.0
+219 St,2.0
+Gun Hill Rd and White Plains Rd,2.0
+Burke Av,2.0
+Allerton Av,2.0
+Pelham Pkwy and White Plains Rd,2.0
+Bronx Park East,2.0
+E 180 St,3.0
+West Farms Sq-E Tremont Av,2.0
+174 St,2.0
+Freeman St,2.0
+Simpson St,2.0
+Intervale Av,2.0
+Prospect Av and Westchester Av,2.0
+Jackson Av,2.0
+3 Av-149 St,2.0
+149 St-Grand Concourse,4.0
+135 St and Lenox Av,3.0
+125 St and Malcom X Blvd,2.0
+116 St and Malcom X Blvd,2.0
+Central Park North (110 St),2.0
+Park Place,2.0
+Fulton St,8.0
+Wall St and William St,2.0
+Clark St,2.0
+Borough Hall,4.0
+Hoyt St,2.0
+Nevins St,3.0
+Atlantic Av-Barclays Ctr,9.0
+Bergen St and Flatbush Av,2.0
+Grand Army Plaza,2.0
+Eastern Pkwy-Brooklyn Museum,2.0
+Franklin Av-Medgar Evers College,5.0
+President St-Medgar Evers College,2.0
+Sterling St,2.0
+Winthrop St,2.0
+Church Av and Nostrand Av,2.0
+Beverly Rd,4.0
+Newkirk Av-Little Haiti,2.0
+Flatbush Av-Brooklyn College,1.0
+Harlem-148 St,1.0
+Lenox Av and W 145 St,2.0
+Nostrand Av and Eastern Pkwy,2.0
+Kingston Av,2.0
+Crown Hts-Utica Av,3.0
+Sutter Av-Rutland Rd,2.0
+Saratoga Av,2.0
+Rockaway Av and Livonia Av,2.0
+Junius St,2.0
+Pennsylvania Av,2.0
+Van Siclen Av and Livonia Av,2.0
+New Lots Av and Warwick St,1.0
+Woodlawn,1.0
+Mosholu Pkwy,2.0
+Bedford Park Blvd-Lehman College,2.0
+Kingsbridge Rd and Jerome Av,2.0
+Fordham Rd and Jerome Av,2.0
+183 St,2.0
+Burnside Av,2.0
+176 St,2.0
+Mt Eden Av,2.0
+170 St and Jerome Av,2.0
+167 St and River Av,2.0
+161 St-Yankee Stadium,4.0
+138 St-Grand Concourse,2.0
+125 St and Lexington Av,4.0
+86 St and Lexington Av,4.0
+59 St and Lexington Av,4.0
+Grand Central-42 St,6.0
+14 St-Union Sq,8.0
+Brooklyn Bridge-City Hall,3.0
+Wall St and Broadway,2.0
+Bowling Green,2.0
+Eastchester-Dyre Av,1.0
+Baychester Av,2.0
+Gun Hill Rd and Sexton Pl,2.0
+Pelham Pkwy and Laconia Av,2.0
+Morris Park,2.0
+Pelham Bay Park,1.0
+Buhre Av,2.0
+Middletown Rd,2.0
+Westchester Sq-E Tremont Av,2.0
+Zerega Av,2.0
+Castle Hill Av,2.0
+Parkchester,2.0
+St Lawrence Av,2.0
+Morrison Av-Soundview,2.0
+Elder Av,2.0
+Whitlock Av,2.0
+Hunts Point Av,2.0
+Longwood Av,2.0
+E 149 St,2.0
+E 143 St-St Mary's St,2.0
+Cypress Av,2.0
+Brook Av,2.0
+3 Av-138 St,2.0
+116 St and Lexington Av,2.0
+110 St,2.0
+103 St and Lexington,2.0
+96 St and Lexington Av,2.0
+77 St and Lexington Av,2.0
+68 St-Hunter College,2.0
+51 St,2.0
+33 St,2.0
+28 St and Park Av S,2.0
+23 St and Park Av S,2.0
+Astor Pl,2.0
+Bleecker St,2.0
+Spring St and Lafayette,2.0
+Canal St,9.0
+Flushing-Main St,1.0
+Mets-Willets Point,2.0
+111 St and Roosevelt Av,2.0
+103 St-Corona Plaza,2.0
+Junction Blvd,2.0
+90 St-Elmhurst Av,2.0
+82 St-Jackson Hts,2.0
+74 St-Broadway,2.0
+69 St,2.0
+61 St-Woodside,2.0
+52 St,2.0
+46 St-Bliss St,2.0
+40 St-Lowery St,2.0
+33 St-Rawson St,2.0
+Queensboro Plaza,4.0
+Court Sq,3.0
+Hunters Point Av,2.0
+Vernon Blvd-Jackson Av,2.0
+5 Av,2.0
+34 St-Hudson Yards,1.0
+Inwood-207 St,1.0
+Dyckman St and Broadway,2.0
+190 St,2.0
+181 St and Fort Washington Av,2.0
+175 St,2.0
+168 St,3.0
+145 St and St Nicholas Av,5.0
+125 St and St Nicholas Av,4.0
+42 St-Port Authority Bus Terminal,3.0
+14 St and 8 Av,3.0
+W 4 St-Wash Sq,5.0
+Canal St and 6th Ave,4.0
+Chambers St and Church St,2.0
+High St,2.0
+Jay St-MetroTech,4.0
+Hoyt-Schermerhorn Sts,5.0
+Nostrand Av and Fulton St,4.0
+Utica Av,4.0
+Broadway Junction,6.0
+Euclid Av,3.0
+Grant Av,2.0
+80 St,2.0
+88 St,2.0
+Rockaway Blvd,2.0
+104 St and Liberty Av,2.0
+111 St and Liberty Av,2.0
+Ozone Park-Lefferts Blvd,2.0
+Aqueduct Racetrack,2.0
+Howard Beach-JFK Airport,2.0
+Broad Channel,3.0
+Beach 67 St,2.0
+Beach 60 St,2.0
+Beach 44 St,2.0
+Beach 36 St,2.0
+Beach 25 St,2.0
+Far Rockaway-Mott Av,1.0
+Beach 90 St,2.0
+Beach 98 St,2.0
+Beach 105 St,2.0
+Rockaway Park-Beach 116 St,1.0
+Bedford Park Blvd,2.0
+Kingsbridge Rd and Grand Concourse,2.0
+Fordham Rd and Grand Concourse,2.0
+182-183 Sts,2.0
+Tremont Av,2.0
+174-175 Sts,2.0
+170 St and Grand Concourse,2.0
+167 St and Tudor Pl,2.0
+155 St and Frederick Douglas Blvd,2.0
+135 St and St. Nicholas Av,2.0
+116 St and Frederick Douglass Blvd,2.0
+Cathedral Pkwy (110 St) and Frederick Douglass Blvd,2.0
+103 St and Central Park W,2.0
+96 St and Central Park W,2.0
+86 St and Central Park W,2.0
+81 St-Museum of Natural History,2.0
+72 St and Central Park W,2.0
+7 Av and 53rd St,4.0
+47-50 Sts-Rockefeller Ctr,2.0
+42 St-Bryant Pk,3.0
+34 St-Herald Sq,5.0
+Broadway-Lafayette St,2.0
+Grand St,3.0
+DeKalb Av and Flatbush Av Ext,4.0
+7 Av and Park Pl,2.0
+Prospect Park,3.0
+Church Av and 18th Street,4.0
+Newkirk Plaza,4.0
+Kings Hwy and E 15th St,4.0
+Sheepshead Bay,3.0
+Brighton Beach,2.0
+163 St-Amsterdam Av,2.0
+155 St and St Nicholas Av,2.0
+50 St and 8th Av,3.0
+23 St and 8th Av,2.0
+Spring St and 6th Av,2.0
+Lafayette Av,2.0
+Clinton-Washington Avs and Lafayette Av,2.0
+Franklin Av and Fulton St,2.0
+Kingston-Throop Avs,2.0
+Ralph Av,2.0
+Rockaway Av and Fulton St,2.0
+Liberty Av,2.0
+Van Siclen Av and Pitkin Av,2.0
+Shepherd Av,2.0
+Norwood-205 St,1.0
+36 St and Fourth Av,5.0
+9 Av,2.0
+Fort Hamilton Pkwy and 44th St,2.0
+50 St and New Utrecht Av,2.0
+55 St,2.0
+62 St,2.0
+71 St,2.0
+79 St and New Utrecht Av,2.0
+18 Av and 85 St,2.0
+20 Av and 86th St,2.0
+Bay Pkwy and 86th St,2.0
+25 Av,2.0
+Bay 50 St,2.0
+Coney Island-Stillwell Av,3.0
+Jamaica Center-Parsons/Archer,1.0
+Sutphin Blvd-Archer Av-JFK Airport,3.0
+Jamaica-Van Wyck,2.0
+Briarwood,2.0
+Kew Gardens-Union Tpke,2.0
+75 Av,2.0
+Forest Hills-71 Av,3.0
+Jackson Hts-Roosevelt Av,4.0
+Queens Plaza,4.0
+Court Sq-23 St,2.0
+Lexington Av/53 St,2.0
+5 Av/53 St,2.0
+World Trade Center,1.0
+21 St,2.0
+Greenpoint Av,2.0
+Nassau Av,2.0
+Metropolitan Av,2.0
+Broadway and Union Av,2.0
+Flushing Av and Union Av,2.0
+Myrtle-Willoughby Avs,2.0
+Bedford-Nostrand Avs,2.0
+Classon Av,2.0
+Clinton-Washington Avs and Fulton St,2.0
+Fulton St and Lafayette Av,2.0
+Bergen St and Warren St,2.0
+Carroll St,2.0
+Smith-9 Sts,2.0
+4 Av-9 St,4.0
+7 Av and 9th St,2.0
+15 St-Prospect Park,2.0
+Fort Hamilton Pkwy and Prospect Av,2.0
+Church Av and McDonald Av,1.0
+Astoria-Ditmars Blvd,1.0
+Astoria Blvd,2.0
+30 Av,2.0
+Broadway and 31st St,2.0
+36 Av,2.0
+39 Av-Dutch Kills,2.0
+Lexington Av/59 St,3.0
+5 Av/59 St,2.0
+57 St-7 Av,4.0
+49 St,2.0
+59 St and 4th Av,4.0
+8 Av and 61st St,2.0
+Fort Hamilton Pkwy and 62nd St,2.0
+New Utrecht Av,2.0
+18 Av and 64 St,2.0
+20 Av and 64th St,2.0
+"Bay Pkwy, Avenue O and 8th St",2.0
+Kings Hwy and 8th St ,2.0
+Avenue U and W 8 St,2.0
+86 St and 7th St,2.0
+96 St and 2nd Av,1.0
+86 St and 2nd Av,2.0
+72 St and 2nd Av,2.0
+Lexington Av/63 St,2.0
+Parkside Av,2.0
+Cortelyou Rd,2.0
+Avenue H,2.0
+Avenue J,2.0
+Avenue M,2.0
+Avenue U and East 16th St,2.0
+Neck Rd,2.0
+Ocean Pkwy,2.0
+W 8 St-NY Aquarium,2.0
+67 Av,2.0
+63 Dr-Rego Park,2.0
+Woodhaven Blvd and 59th Av,2.0
+Grand Av-Newtown,2.0
+Elmhurst Av,2.0
+65 St,2.0
+Northern Blvd,2.0
+46 St,2.0
+Steinway St,2.0
+36 St,2.0
+28 St and Broadway,2.0
+23 St and Broadway,2.0
+8 St-NYU,2.0
+Prince St,2.0
+City Hall,2.0
+Cortlandt St,2.0
+Whitehall St-South Ferry,3.0
+Court St,2.0
+Union St,4.0
+Prospect Av and 4th Av,3.0
+25 St,2.0
+45 St,2.0
+53 St,2.0
+Bay Ridge Av,2.0
+77 St and Fourth Av,2.0
+86 St and 4th Av,2.0
+Bay Ridge-95 St,1.0
+121 St,2.0
+104 St and Jamaica Av,2.0
+Woodhaven Blvd and Jamaica Av,2.0
+75 St-Elderts Ln,2.0
+Crescent St,2.0
+Norwood Av,2.0
+Van Siclen Av and Fulton St,2.0
+Alabama Av,2.0
+Chauncey St,2.0
+Gates Av,2.0
+Myrtle Av,2.0
+Marcy Av,2.0
+Delancey St-Essex St,2.0
+Bowery,2.0
+Chambers St and Centre St,2.0
+Broad St,1.0
+St George,2.0
+Tompkinsville,2.0
+Stapleton,2.0
+Clifton,2.0
+Grasmere,2.0
+Old Town,2.0
+Dongan Hills,2.0
+Jefferson Av,2.0
+Grant City,2.0
+New Dorp,2.0
+Oakwood Heights,2.0
+Bay Terrace,2.0
+Great Kills,2.0
+Eltingville,2.0
+Annadale,2.0
+Huguenot,2.0
+Prince's Bay,2.0
+Pleasant Plains,2.0
+Richmond Valley,2.0
+Arthur Kill,2.0
+Tottenville,1.0
