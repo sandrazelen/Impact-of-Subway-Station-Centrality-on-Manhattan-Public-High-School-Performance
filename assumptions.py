@@ -62,7 +62,8 @@ def main():
   print("Anderson-Darling Test Statistic:", anderson_test.statistic)
   # print("Anderson-Darling Critical Values:", anderson_test.critical_values)
   print("Anderson-Darling Significance Levels:", anderson_test.significance_level)
-
+  
+  print("Mean of Residuals: ", residuals.mean())
   print("\nMulticollinearity (Variance Inflation Factor - VIF):")
   vif_data = pd.DataFrame()
   vif_data["feature"] = X.columns
