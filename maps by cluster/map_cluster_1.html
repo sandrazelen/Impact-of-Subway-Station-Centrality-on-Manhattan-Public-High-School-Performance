@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NYC Subway Stations Map</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdZqFGjwbO0op2NTHw0axO0AVNz6wnftI&libraries=visualization"></script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script>
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 12,
+                center: {lat: 40.7128, lng: -74.0060}
+            });
+
+            var subwayStations =  [{"name": "Food and Finance High School - [HS] 02M288", "lat": 40.7653073, "lng": -73.9922821},{"name": "High School of Hospitality Management - [HS] 02M296", "lat": 40.7655356, "lng": -73.9931625},{"name": "Urban Assembly School of Design and Construction, The - [HS] 02M300", "lat": 40.765536, "lng": -73.993163},{"name": "Gramercy Arts High School - [HS] 02M374", "lat": 40.7354278, "lng": -73.9872741},{"name": "The High School For Language And Diplomacy - [HS] 02M399", "lat": 40.7353237, "lng": -73.9870812},{"name": "Leadership and Public Service High School - [HS] 02M425", "lat": 40.7090242, "lng": -74.0123569},{"name": "High School of Economics and Finance - [HS] 02M489", "lat": 40.7092571, "lng": -74.0123392},{"name": "Jacqueline Kennedy Onassis High School - [HS] 02M529", "lat": 40.7577928, "lng": -73.9834084},{"name": "Art and Design High School - [HS] 02M630", "lat": 40.759047, "lng": -73.9664806},{"name": "The Maxine Greene HS for Imaginative Inquiry - [HS] 03M299", "lat": 40.7748463, "lng": -73.9856659},{"name": "The Urban Assembly School for Green Careers - [HS] 03M402", "lat": 40.785994, "lng": -73.97417},{"name": "Wadleigh Secondary School for the Performing & Visual Arts - [HS] 03M415", "lat": 40.8025923, "lng": -73.9544319},{"name": "Beacon High School - [HS] 03M479", "lat": 40.7613016, "lng": -73.9960457},{"name": "High School for Law, Advocacy and Community Justice - [HS] 03M492", "lat": 40.774779, "lng": -73.98472},{"name": "High School of Arts and Technology - [HS] 03M494", "lat": 40.7753818, "lng": -73.9860622},{"name": "Frederick Douglass Academy II Secondary School - [HS] 03M860", "lat": 40.8025691, "lng": -73.9541214},{"name": "Esperanza Preparatory Academy - [HS] 04M372", "lat": 40.793049, "lng": -73.942651},{"name": "Heritage School, The - [HS] 04M680", "lat": 40.791964, "lng": -73.946878},{"name": "Eagle Academy for Young Men of Harlem - [HS] 05M148", "lat": 40.8115504, "lng": -73.9464769},{"name": "Mott Hall High School - [HS] 05M304", "lat": 40.817349, "lng": -73.94745},{"name": "Urban Assembly School for the Performing Arts - [HS] 05M369", "lat": 40.815709, "lng": -73.9556642},{"name": "Frederick Douglass Academy - [HS] 05M499", "lat": 40.824267, "lng": -73.936642},{"name": "Inwood Early College for Health and Information Technologies - [HS] 06M211", "lat": 40.8659143, "lng": -73.925157},{"name": "Inwood Early College for Health and Information Technologies - [HS] 06M211", "lat": 40.8659143, "lng": -73.925157},{"name": "High School for Law and Public Service - [HS] 06M467", "lat": 40.855894, "lng": -73.926033},{"name": "A. Philip Randolph Campus High School - [HS] 06M540", "lat": 40.8183585, "lng": -73.9499696},{"name": "Democracy Preparatory Harlem Charter School - [HS] 84M481", "lat": 40.8115504, "lng": -73.9464769}]
+
+
+            var markers = subwayStations.map(function(station) {
+                var marker = new google.maps.Marker({
+                    position: {lat: station.lat, lng: station.lng},
+                    title: station.name,
+                    //icon: "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png" // Optional custom icon
+                });
+
+                var infowindow = new google.maps.InfoWindow({
+                    content: station.name
+                });
+
+                marker.addListener('click', function() {
+                    infowindow.open(map, marker);
+                });
+
+                return marker;
+            });
+
+            //Marker Cluster
+            var markerCluster = new MarkerClusterer(map, markers, {
+                imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
+            });
+        }
+    </script>
+</head>
+<body onload="initMap()">
+    <div id="map" style="height: 600px; width: 100%;"></div>
+</body>
+</html>
+
