@@ -1,0 +1,35 @@
+School,Station,Node Degree,Closeness,Betweenness,Eigenvector,Swipes,Student Achievement,Rigorous Instruction,Collaborative Teachers,Supportive Environment,Effective School Leadership,Strong Family-Community Ties,Trust,Cluster
+Food and Finance High School - [HS] 02M288,50 St and 8th Av,0.52,0.8955299065,-0.6500413337,0.3309269754,4.065938965,3.22,2.8,2.18,2.98,2.75,2.9,2.7,3
+High School of Hospitality Management - [HS] 02M296,50 St and 8th Av,0.52,0.8955299065,-0.6500413337,0.3309269754,1.626112938,2.74,2.39,2.86,3.27,2.66,2.26,3.47,3
+"Urban Assembly School of Design and Construction, The - [HS] 02M300",50 St and 8th Av,0.52,0.8955299065,-0.6500413337,0.3309269754,1.626112938,3.01,2.76,3.54,3.62,3.35,3.67,4.09,3
+Lower Manhattan Arts Academy - [HS] 02M308,Spring St and Lafayette,-0.32,1.496967609,-0.6265434322,1.781290488,1.626112938,3.18,3.52,3.22,3.39,3.53,2.79,2.91,3
+Gramercy Arts High School - [HS] 02M374,14 St-Union Sq,6.44,2.124894299,7.035861186,7.665829304,1.326164745,3.83,3.04,3.03,3.09,2.98,3.1,2.95,3
+Business Of Sports School - [HS] 02M393,50 St and 8th Av,0.52,0.8955299065,-0.6500413337,0.3309269754,1.389874821,3.23,3.5,3.64,3.13,3.63,3.22,3.63,3
+The High School For Language And Diplomacy - [HS] 02M399,14 St-Union Sq,6.44,2.124894299,7.035861186,7.665829304,2.492849484,3.01,2.51,3.36,3.2,3.33,3.47,3.67,3
+Professional Performing Arts High School - [HS] 02M408,50 St and 8th Av,0.52,0.8955299065,-0.6500413337,0.3309269754,4.065938965,4.17,3.47,3.6,3.63,3.55,3.24,3.01,3
+Quest to Learn - [HS] 02M422,14 St and 8 Av,1.37,1.518275304,-0.5168306107,1.876230926,1.1203359,2.94,3.01,3.25,3.42,3.08,3.09,3.15,3
+Leadership and Public Service High School - [HS] 02M425,Rector St,1.37,1.160134514,1.40762888,0.007517424762,2.492849484,3.28,2.47,2.95,3.68,2.98,3.46,3.12,3
+High School of Economics and Finance - [HS] 02M489,Rector St,1.37,1.160134514,1.40762888,0.007517424762,1.545198251,3.7,3.6,3.48,3.81,3.85,2.02,2.86,3
+Jacqueline Kennedy Onassis High School - [HS] 02M529,47-50 Sts-Rockefeller Ctr,0.52,1.213287254,-0.5052681512,0.4437380575,2.763448633,3.13,2.31,3.57,3.33,3.6,3.81,3.8,3
+Richard R. Green High School of Teaching - [HS] 02M580,Bowling Green,-0.32,0.7879682394,-0.6572958446,-0.03541096853,1.646787388,3.21,3.25,3.38,3.79,3.69,3.74,4.16,3
+Chelsea Career and Technical Education High School - [HS] 02M615,Spring St and 6th Av,-0.32,1.223379546,-0.6685599181,0.6805606009,2.763448633,3.76,3.15,3.03,3.26,2.9,3.36,3.55,3
+Art and Design High School - [HS] 02M630,Lexington Av/53 St,-0.32,0.6557703411,-0.2414575831,-0.2827837988,1.511222756,4.03,3.12,3.15,3.2,3.4,3.67,3.3,3
+The Maxine Greene HS for Imaginative Inquiry - [HS] 03M299,66 St-Lincoln Center,-0.32,1.067649203,-0.5241224199,0.214017372,1.626112938,3.14,2.34,3.41,3.0,3.56,4.07,2.72,3
+The Urban Assembly School for Green Careers - [HS] 03M402,86 St and Broadway,-0.32,0.6495793677,-0.6627227409,-0.2033913482,1.526306912,3.41,3.94,3.31,3.09,3.1,1.79,2.28,3
+Wadleigh Secondary School for the Performing & Visual Arts - [HS] 03M415,116 St and Frederick Douglass Blvd,-0.32,0.5267395078,-0.4641095252,-0.291084006,1.526306912,4.0,2.23,3.3,2.88,3.2,2.52,2.94,3
+Frank McCourt High School - [HS] 03M417,86 St and Broadway,-0.32,0.6495793677,-0.6627227409,-0.2033913482,1.646353658,3.96,3.56,4.09,3.37,3.51,3.26,3.33,3
+Beacon High School - [HS] 03M479,42 St-Port Authority Bus Terminal,0.52,1.18767783,-0.1020180513,0.7234743633,1.646353658,4.49,3.52,2.69,3.7,2.91,2.43,2.29,3
+"High School for Law, Advocacy and Community Justice - [HS] 03M492",66 St-Lincoln Center,-0.32,1.067649203,-0.5241224199,0.214017372,1.646353658,3.36,3.62,3.34,2.76,2.59,3.18,1.66,3
+High School of Arts and Technology - [HS] 03M494,66 St-Lincoln Center,-0.32,1.067649203,-0.5241224199,0.214017372,1.351321068,3.22,1.88,1.92,2.85,1.95,3.55,2.84,3
+Frederick Douglass Academy II Secondary School - [HS] 03M860,116 St and Frederick Douglass Blvd,-0.32,0.5267395078,-0.4641095252,-0.291084006,1.350887339,3.52,2.87,3.18,3.95,3.36,2.95,2.57,3
+Esperanza Preparatory Academy - [HS] 04M372,110 St,-0.32,0.2264357354,-0.6581910028,-0.3699147864,1.338694715,3.63,3.35,3.53,3.47,3.54,2.62,3.02,3
+"Heritage School, The - [HS] 04M680",103 St and Lexington,-0.32,0.4215587616,-0.6329960305,-0.3582904754,1.675268973,3.11,2.25,3.55,3.54,3.51,3.8,2.99,3
+Eagle Academy for Young Men of Harlem - [HS] 05M148,135 St and St. Nicholas Av,-0.32,0.5937575991,-0.6685599181,-0.263886776,1.100143372,3.47,3.27,3.49,3.74,3.94,2.13,2.97,3
+Mott Hall High School - [HS] 05M304,135 St and St. Nicholas Av,-0.32,0.5937575991,-0.6685599181,-0.263886776,1.033108035,3.27,2.7,3.56,3.13,3.57,3.04,3.59,3
+Urban Assembly School for the Performing Arts - [HS] 05M369,125 St and Broadway,-0.32,-0.201,0.5100276885,-0.38,1.265057048,3.03,3.09,2.6,2.71,2.6,2.51,2.13,3
+Frederick Douglass Academy - [HS] 05M499,Harlem-148 St,-1.17,-0.26,-0.6685599181,-0.381,1.128191227,2.91,2.22,2.82,2.58,2.52,1.58,3.05,3
+Thurgood Marshall Academy for Learning and Social Change - [HS] 05M670,135 St and Lenox Av,0.52,0.3024491518,-0.1360713594,-0.377126552,1.155130661,3.11,3.14,4.07,3.96,3.62,2.77,3.24,3
+Inwood Early College for Health and Information Technologies - [HS] 06M211,Dyckman St and Broadway,-0.32,-0.67,-0.5750718382,-0.381,1.100143372,3.17,2.63,2.6,3.52,3.29,4.25,3.72,3
+High School for Law and Public Service - [HS] 06M46,191 St,-0.32,-1.23,-0.02406469521,-0.381,-2.129033127,2.95,2.82,2.83,2.88,3.03,4.13,3.45,3
+A. Philip Randolph Campus High School - [HS] 06M540,135 St and St. Nicholas Av,-0.32,0.5937575991,-0.6685599181,-0.263886776,-0.1276291626,2.82,2.66,3.39,3.03,3.34,2.17,2.77,3
+Democracy Preparatory Harlem Charter School - [HS] 84M481,135 St and Lenox Av,0.52,0.3024491518,-0.1360713594,-0.377126552,-0.4473130294,3.14,3.02,3.48,3.18,3.41,3.63,2.59,3
