@@ -1,4 +1,3 @@
-# Load necessary libraries
 install.packages("dplyr")
 install.packages("car")
 install.packages("FactoMineR")
@@ -25,17 +24,15 @@ run_pca <- function(data, num_components, seed) {
   loadings <- pca_result$rotation[, 1:num_components]
   print(loadings)
   
-  # Get eigenvalues
   eig.val <- get_eigenvalue(pca_result)
   print(eig.val)
   
-  #Visualize
   fviz_pca_var(pca_result, col.var = "black")
   fviz_cos2(pca_result, choice = "var", axes = 1:2)
   biplot(pca_result, cex = 0.4)
   fviz_eig(pca_result, addlabels = TRUE)
   fviz_pca_var(pca_result,
-               col.var = "cos2", # Color by the quality of representation
+               col.var = "cos2", 
                gradient.cols = c("darkorchid4", "gold", "darkorange"),
                repel = TRUE
   )
@@ -115,7 +112,6 @@ plot_kmeans <- function(combined_data, n_clusters, seed, name, x_col, y_col) {
   print(cluster_plot)
   
   print(data_for_clustering)
-  #print(x_col)
   
   kmeans_ggplot <- ggplot(data_for_clustering, aes(x = X, y = Y, color = Cluster, label = Station)) +
     geom_point(size = 4, alpha = 0.8, shape = 19) +
@@ -125,7 +121,7 @@ plot_kmeans <- function(combined_data, n_clusters, seed, name, x_col, y_col) {
     theme_minimal()
   print(kmeans_ggplot)
   
-  # Generate ggplot for PCA visualization without lines
+  #Generate ggplot for PCA visualization without lines
   pca_ggplot <- ggplot(data_for_clustering, aes(x =X, y =Y)) +
     geom_point(size = 4, alpha = 0.8, shape = 19) +
     geom_text(aes(label = Station), vjust = -1, hjust = 1, check_overlap = TRUE) + 
@@ -133,7 +129,7 @@ plot_kmeans <- function(combined_data, n_clusters, seed, name, x_col, y_col) {
     theme_minimal()
   print(pca_ggplot)
   
-  # Generate ggplot for PCA with METHOD = " "
+  #Generate ggplot for PCA with METHOD = " "
   pca_smooth_ggplot <- ggplot(data_for_clustering, aes(x = X, y = Y)) +
     geom_point(size = 4, alpha = 0.8, shape = 19) +
     geom_smooth(method = "loess", se = FALSE, color = "blue") +
@@ -173,7 +169,6 @@ fviz_pca_var(pca_result,
 combined_data <- pcs
 print(combined_data)
 
-# #Split into train and test
 # n <- nrow(combined_data)
 # train_indices <- sample(1:n, size = 0.7 * n)
 # train_set <- combined_data[train_indices, ]
