@@ -1,0 +1,12 @@
+Variable\PC,Neighbor-driven PC,Performance Metric PC,Distance-driven PC
+Node Degree,0.532,0.019,-0.192
+Closeness,0.162,0.044,0.61
+Betweenness,0.57,-0.056,-0.529
+Eigenvector,0.602,0.085,0.486
+Student Achievement,0.002,0.277,0.076
+Rigorous Instruction,-0.002,0.521,0.071
+Collaborative Teachers,-0.019,0.43,-0.009
+Supportive Environment,-0.008,0.31,-0.001
+Effective School Leadership,-0.01,0.39,-0.152
+Strong Family Community Ties,-0.051,0.263,-0.153
+Trust,-0.022,0.369,-0.131
