@@ -147,6 +147,4 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
-> **[?]**
-> If your work was funded by any organization or institution, acknowledge their support here.
-> In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
+This project was supported by the Columbia Summer Undergraduate Research Experiences in Mathematical Modeling. Special thanks to George Dragomir and Vihan Pandey for their invaluable guidance.
