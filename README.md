@@ -25,6 +25,8 @@ Graph theory enables complex network analysis. Node centrality is a critical con
 ## Multiple Linear Regression
 Initially, we performed Multiple Linear Regression (MLR) to analyze the relationship between subway centrality and school performance. A separate linear regression was performed for each of the 7 performance metrics.
 
+Our model satisfied several linear regression assumption checks (normality of error distribution; variance, independence, and zero mean of residuals), but the adjusted r-squared values for each performance metric were below 10\%, suggesting that the MLR did not effectively capture the variation in our data. We chose to pivot from a predictive regression model to principal component analysis.
+
 ## Principal Component Analysis 
 Principal Component Analysis (PCA) is a dimensionality reduction technique that identifies correlated variables and linearly combines them into new principal components. We ran PCA on 90 rows (high schools) and 11 columns (7 performance metrics and 4 centrality measures), resulting in three principal components:
 
@@ -34,7 +36,7 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique that 
 
 <div style="text-align: center;">
     <p><strong>Principal Component Analysis Loadings</strong></p>
-    <img src="images/pca_loadings.png" alt="Principal Component Analysis Loadings" width="50%">
+    <img src="images/pca_loadings.png" alt="Principal Component Analysis Loadings" width="80%">
 </div>
 
 ## K means clustering 
@@ -43,11 +45,11 @@ K-means clustering is an unsupervised machine learning algorithm that partitions
 <div style="display: flex; justify-content: center; gap: 20px;">
     <div style="text-align: center;">
         <p><strong>Neighbor-driven Centrality Clusters PCA Results:</strong></p>
-        <img src="images/neighbordriven_clusters.png" alt="Neighbor-driven Centrality Clusters" width="50%">
+        <img src="images/neighbordriven_clusters.png" alt="Neighbor-driven Centrality Clusters" width="70%">
     </div>
     <div style="text-align: center;">
         <p><strong>Distance-driven Centrality Clusters PCA Results:</strong></p>
-        <img src="images/distancedriven_clusters.png" alt="Distance-driven Centrality Clusters" width="50%">
+        <img src="images/distancedriven_clusters.png" alt="Distance-driven Centrality Clusters" width="70%">
     </div>
 </div>
 
@@ -59,6 +61,7 @@ We conducted K-means clustering on both the neighbor-driven and distance-driven 
 </strong></p>
     <img src="images/neighbordriven_pc_table.png" alt="Neighbor-driven Centrality Clusters PCA Results">
 </div>
+
 
 <div style="text-align: center;">
     <p><strong>Distance-driven Centrality Clusters PCA Results:
