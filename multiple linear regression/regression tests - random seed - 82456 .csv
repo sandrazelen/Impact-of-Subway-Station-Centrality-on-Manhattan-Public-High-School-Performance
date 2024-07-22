@@ -1,0 +1,17 @@
+Column 1,Student Achievement,Collaborative Teachers,Rigorous Instruction,Supportive Environment,Effective School Leadership,Strong Family-Community Ties,Trust
+Multiple R-Squared,0.1074,0.0142,0.02028,0.07918,0.04847,0.06698,0.039
+Adjusted R-Squared,0.01993,-0.08245,-0.07577,-0.01109,-0.04481,-0.02449,-0.05522
+F-statistic,"1.228 on 5 and 51 DF,  p-value = 0.3098","0.1469 on 5 and 51 DF,  p-value = 0.9801","0.2111 on 5 and 51 DF,  p-value = 0.9563","0.8771 on 5 and 51 DF,  p-value: 0.5031","0.5196 on 5 and 51 DF,  p-value: 0.7602","0.7322 on 5 and 51 DF,  p-value: 0.6026","0.4139 on 5 and 51 DF,  p-value: 0.8369"
+Mean Percentage Error,16.24308,15.253,18.82264,12.28387,13.74635,17.78822,19.89708
+,,,,,,,
+Variance of Residuals,"BP = 7.6907, df = 5, p-value = 0.1741","BP = 5.0023, df = 5, p-value = 0.4156","BP = 5.7456, df = 5, p-value = 0.3318","BP = 4.3691, df = 5, p-value = 0.4976","BP = 2.7606, df = 5, p-value = 0.7368","BP = 2.0425, df = 5, p-value = 0.8432","BP = 4.6779, df = 5, p-value = 0.4564"
+Independence of Variables,"DW = 2.221, p-value = 0.8029","DW = 1.8152, p-value = 0.2444","DW = 1.8091, p-value = 0.2372","DW = 1.7411, p-value = 0.1647","DW = 2.1277, p-value = 0.6898","DW = 1.6455, p-value = 0.0896","DW = 2.2682, p-value = 0.8494"
+Normality Shapiro,"W = 0.96253, p-value = 0.07485","W = 0.9865, p-value = 0.7744","W = 0.98599, p-value = 0.7497","W = 0.98052, p-value = 0.4862","W = 0.97215, p-value = 0.2111","W = 0.96742, p-value = 0.1271","W = 0.98327, p-value = 0.6147"
+Normality Anderson,"A = 0.74504, p-value = 0.04939","A = 0.18639, p-value = 0.901","A = 0.18579, p-value = 0.902","A = 0.21186, p-value = 0.8491","A = 0.48689, p-value = 0.2164","A = 0.68346, p-value = 0.07042","A = 0.42767, p-value = 0.3021"
+0 Mean of Residuals ,-2.47E-17,3.39E-18,2.71E-17,-9.65E-18,-1.94E-18,2.89E-17,-1.12E-17
+,,,,,,,
+VIF Closeness,2.544334,2.544334,2.544334,2.544334,2.544334,2.544334,2.544334
+VIF Betweenness,9.035919,9.035919,9.035919,9.035919,9.035919,9.035919,9.035919
+VIF Eigenvector,9.468731,9.468731,9.468731,9.468731,9.468731,9.468731,9.468731
+VIF Node Degree,15.343176,15.343176,15.343176,15.343176,15.343176,15.343176,15.343176
+VIF Swipes,1.69434,1.69434,1.69434,1.69434,1.69434,1.69434,1.69434
