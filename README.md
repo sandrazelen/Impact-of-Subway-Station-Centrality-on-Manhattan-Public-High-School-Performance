@@ -77,6 +77,8 @@ Although our data didn’t demonstrate the linear relationship we had initially 
 - Schools associated with particularly high subway centrality did not achieve high performance, challenging our initial hypothesis.
 - Student Achievement is the most informative performance metric for school performance.
 
+School quality is informed by a host of factors, and school centrality and performance have a complex relationship that is worth further exploration. Expansions into other boroughs, additional centrality measures like population density around subway stations, and further exploration into non-linear models may lead to an even deeper understanding of this dynamic.
+
 ## Authors & contributors
 
 The original setup of this repository is by:
