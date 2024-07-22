@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/sandrazelen/Impact-of-Subway-Station-Centrality-on-Manhattan-Public-High-School-Performance/images/closeness_map.jpg">
-    <img src="/images/closeness_map.jpg" alt="Closeness Centrality Map" width="1000" height="500">
+    <img src="/images/closeness_map.jpg" alt="Closeness Centrality Map" width="900" height="450">
   </a>
 </h1>
 
