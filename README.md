@@ -40,19 +40,32 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique that 
 ## K means clustering 
 K-means clustering is an unsupervised machine learning algorithm that partitions a dataset into k clusters. Using the elbow method, we formed 3 clusters based on the centrality and performance metrics PCs. After clustering, we used the original centrality and performance data to run PCA on each set of schools to identify which components were most relevant.
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+        <p><strong>Neighbor-driven Centrality Clusters PCA Results:</strong></p>
+        <img src="images/neighbordriven_clusters.png" alt="Neighbor-driven Centrality Clusters" width="50%">
+    </div>
+    <div style="text-align: center;">
+        <p><strong>Distance-driven Centrality Clusters PCA Results:</strong></p>
+        <img src="images/distance_driven_clusters.png" alt="Distance-driven Centrality Clusters" width="50%">
+    </div>
+</div>
+
 ## Results & Discussion
 We conducted K-means clustering on both the neighbor-driven and distance-driven centrality PCs. The clusters fell into the same centrality-performance categories: **high centrality–medium performance, low centrality–low performance, and low centrality–high performance**. We analyzed these patterns further by performing PCA on the original data for each cluster.
 
-Neighbor-driven Centrality Clusters:
+<div style="text-align: center;">
+    <p><strong>Neighbor-driven Centrality Clusters PCA Results:
+</strong></p>
+    <img src="images/neighbordriven_pc_table.png" alt="Neighbor-driven Centrality Clusters PCA Results">
+</div>
 
-Cluster 1: High centrality, medium performance, dominant metric: Rigorous Instruction
-Cluster 2: Low centrality, low performance, dominant metric: Strong Family-Community Ties
-Cluster 3: Low centrality, high performance, dominant metric: Student Achievement
-Distance-driven Centrality Clusters:
+<div style="text-align: center;">
+    <p><strong>Distance-driven Centrality Clusters PCA Results:
+</strong></p>
+    <img src="images/distancedriven_pc_table.png" alt="Distance-driven Centrality Clusters PCA Results">
+</div>
 
-Cluster 1: High centrality, medium performance, dominant metrics: Rigorous Instruction, Student Achievement
-Cluster 2: Low centrality, low performance, dominant metric: Strong Family-Community Ties
-Cluster 3: Low centrality, high performance, dominant metric: Student Achievement
 
 ## Conclusion
 Although our data didn’t demonstrate the linear relationship we had initially hypothesized, using PCA and K-means clustering, we reached conclusions about centrality-performance relationships for Manhattan public high schools:
