@@ -47,7 +47,7 @@ K-means clustering is an unsupervised machine learning algorithm that partitions
     </div>
     <div style="text-align: center;">
         <p><strong>Distance-driven Centrality Clusters PCA Results:</strong></p>
-        <img src="images/distance_driven_clusters.png" alt="Distance-driven Centrality Clusters" width="50%">
+        <img src="images/distancedriven_clusters.png" alt="Distance-driven Centrality Clusters" width="50%">
     </div>
 </div>
 
