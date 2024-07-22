@@ -52,12 +52,21 @@
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+The New York City Metropolitan Transit Authority subway system is the largest transporta-
+tion agency in North America, serving more than 3 million riders daily. In Manhattan, only
+23.4% of households own a car, making the borough highly dependent on the subway
+for transportation [1].
+Research Topic
+Understanding that robust transportation infrastructure greatly influences urban land-
+scapes, our study explores the impact of the MTA on public high school performance
+throughout Manhattan. Previous research has studied how subway centrality shapes
+various socioeconomic outcomes, such as job mobility, racial inequities, and housing
+prices. However, there is a lack of literature on the relationship between subway cen-
+trality and education quality. This gap is worth exploring because education quality has
+been linked to long-term educational attainment and higher valuations of neighborhoods
+[5]. A more holistic understanding of how subway infrastructure affects these outcomes
+can inform school choice [4], and possibly contribute to urban planning decisions like
+deciding locations for new schools or where to extend subway lines.
 
 <details>
 <summary>Screenshots</summary>
