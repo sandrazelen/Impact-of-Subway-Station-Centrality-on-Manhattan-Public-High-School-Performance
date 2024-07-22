@@ -32,7 +32,7 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique that 
 - **Performance Metrics**: All seven performance metrics, capturing 9.12% of total variance.
 - **Distance-driven Centrality**: Closeness, betweenness, and eigenvector centrality, capturing 6.87% of total variance.
 
-![Principal Component Analysis Loadings](images/pca_loadings.jpg)
+![Principal Component Analysis Loadings](images/pca_loadings.png)
 
 ## K means clustering 
 K-means clustering is an unsupervised machine learning algorithm that partitions a dataset into k clusters. Using the elbow method, we formed 3 clusters based on the centrality and performance metrics PCs. After clustering, we used the original centrality and performance data to run PCA on each set of schools to identify which components were most relevant.
