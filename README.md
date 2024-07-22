@@ -84,6 +84,7 @@ Using the Python package NetworkX, we calculated centrality measures for each su
 
 Graph theory enables complex network analysis. Node centrality is a critical concept in graph theory that indicates the importance of each node to the rest of the network. Treating each subway station as a node and the subway lines connecting subsequent stations as edges, we calculated four centrality measures for each Manhattan station based on the entire subway system: Node Degree, Closeness Centrality, Betweenness Centrality and Eigenvector Centrality.
 
+![Closeness Centrality Map](images/closeness_map.jpg)
 ## Multiple Linear Regression
 Initially, we performed Multiple Linear Regression (MLR) to analyze the relationship between subway centrality and school performance. A separate linear regression was performed for each of the 7 performance metrics.
 
