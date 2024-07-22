@@ -2,7 +2,8 @@ import requests
 import pandas as pd
 import time
 
-API_key = "AIzaSyBdZqFGjwbO0op2NTHw0axO0AVNz6wnftI"
+#Replace with your API Key"
+API_key = "YOUR API KEY"
 
 origins = [
    {"name": "Orchard Collegiate Academy - [HS] 01M292", "lat": 40.713446, "lng": -73.986033, "station":{"name": "East Broadway", "lat": 40.713715, "lng": -73.990173, "routes": ["F"], "borough": "M"}},
