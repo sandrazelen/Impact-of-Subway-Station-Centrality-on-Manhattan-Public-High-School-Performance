@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  PROJECT_NAME
+  Impact of Subway Station Centrality on Manhattan Public High School Performance
   <br />
   <a href="#about"><strong>Explore the screenshots »</strong></a>
   <br />
