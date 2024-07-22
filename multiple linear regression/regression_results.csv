@@ -1,4 +1,4 @@
-Column 1,Student Achievement,Collaborative Teachers,Rigorous Instruction,Supportive Environment,Effective School Leadership,Strong Family-Community Ties,Trust
+Test,Student Achievement,Collaborative Teachers,Rigorous Instruction,Supportive Environment,Effective School Leadership,Strong Family-Community Ties,Trust
 Multiple R-Squared,0.1074,0.0142,0.02028,0.07918,0.04847,0.06698,0.039
 Adjusted R-Squared,0.01993,-0.08245,-0.07577,-0.01109,-0.04481,-0.02449,-0.05522
 F-statistic,"1.228 on 5 and 51 DF,  p-value = 0.3098","0.1469 on 5 and 51 DF,  p-value = 0.9801","0.2111 on 5 and 51 DF,  p-value = 0.9563","0.8771 on 5 and 51 DF,  p-value: 0.5031","0.5196 on 5 and 51 DF,  p-value: 0.7602","0.7322 on 5 and 51 DF,  p-value: 0.6026","0.4139 on 5 and 51 DF,  p-value: 0.8369"
