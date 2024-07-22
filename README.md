@@ -1,49 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/sandrazelen/Impact-of-Subway-Station-Centrality-on-Manhattan-Public-High-School-Performance/images/closeness_map.jpg">
-    <img src="/images/closeness_map.jpg" alt="Closeness Centrality Map" width="900" height="450">
-  </a>
-</h1>
-
-<div align="center">
-  Impact of Subway Station Centrality on Manhattan Public High School Performance
-  <br />
-  <a href="#about"><strong>Explore the screenshots »</strong></a>
-  <br />
-  <br />
-  <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
-  ·
-  <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .
-  <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
-</div>
-
-<div align="center">
-<br />
-
-</div>
-
-<details open="open">
-<summary>Table of Contents</summary>
-
-- [About](#about)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Support](#support)
-- [Project assistance](#project-assistance)
-- [Contributing](#contributing)
-- [Authors & contributors](#authors--contributors)
-- [Security](#security)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
-</details>
-
----
-
 ## Introduction
 
 The New York City Metropolitan Transit Authority subway system is the largest transportation agency in North America, serving more than 3 million riders daily. In Manhattan, only 23.4\% of households own a car, making the borough highly dependent on the subway for transportation.
@@ -51,24 +5,6 @@ The New York City Metropolitan Transit Authority subway system is the largest tr
 ## Research Topic
 
 Understanding that robust transportation infrastructure greatly influences urban landscapes, our study explores the impact of the MTA on public high school performance throughout Manhattan. Previous research has studied how subway centrality shapes various socioeconomic outcomes, such as job mobility, racial inequities, and housing prices. However, there is a lack of literature on the relationship between subway centrality and education quality. This gap is worth exploring because education quality has been linked to long-term educational attainment and higher valuations of neighborhoods. A more holistic understanding of how subway infrastructure affects these outcomes can inform school choice, and possibly contribute to urban planning decisions like deciding locations for new schools or where to extend subway lines. 
-
-<details>
-<summary>Screenshots</summary>
-<br>
-
-> **[?]**
-> Please provide your screenshots here.
-
-|                               Home Page                               |                               Login Page                               |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
-
-</details>
-
-### Built With
-
-> **[?]**
-> Please provide the technologies that are used in the project.
 
 ## Data Collection and Scraping
 We drew from two major sources for our data collection:
@@ -85,6 +21,7 @@ Using the Python package NetworkX, we calculated centrality measures for each su
 Graph theory enables complex network analysis. Node centrality is a critical concept in graph theory that indicates the importance of each node to the rest of the network. Treating each subway station as a node and the subway lines connecting subsequent stations as edges, we calculated four centrality measures for each Manhattan station based on the entire subway system: Node Degree, Closeness Centrality, Betweenness Centrality and Eigenvector Centrality.
 
 ![Closeness Centrality Map](images/closeness_map.jpg)
+
 ## Multiple Linear Regression
 Initially, we performed Multiple Linear Regression (MLR) to analyze the relationship between subway centrality and school performance. A separate linear regression was performed for each of the 7 performance metrics.
 
@@ -96,7 +33,7 @@ Performance Metrics: All seven performance metrics, capturing 9.12% of total var
 Distance-driven Centrality: Closeness, betweenness, and eigenvector centrality, capturing 6.87% of total variance.
 
 ## K means clustering 
-K-Means Clustering} \vspace{0.4cm} K-means clustering is an unsupervised machine learning algorithm that partitions a dataset into \textit{K} clusters. Using the elbow method, we formed 3 clusters based on the centrality and performance metrics PCs. After clustering, we used the original centrality and performance data to run PCA on each set of schools to identify which components were most relevant.
+K-means clustering is an unsupervised machine learning algorithm that partitions a dataset into k clusters. Using the elbow method, we formed 3 clusters based on the centrality and performance metrics PCs. After clustering, we used the original centrality and performance data to run PCA on each set of schools to identify which components were most relevant.
 
 ## Results & Discussion
 We conducted K-means clustering on both the neighbor-driven and distance-driven centrality PCs. The clusters fell into the same centrality-performance categories: high centrality–medium performance, low centrality–low performance, and low centrality–high performance. We analyzed these patterns further by performing PCA on the original data for each cluster.
@@ -121,9 +58,10 @@ Student Achievement is the most informative performance metric for school perfor
 
 ## Authors & contributors
 
-The original setup of this repository is by [FULL_NAME](https://github.com/GITHUB_USERNAME).
-
-For a full list of all authors and contributors, see [the contributors page](https://github.com/GITHUB_USERNAME/REPO_SLUG/contributors).
+The original setup of this repository is by:
+- **Sandra Zelen** ([sz3120@columbia.edu](mailto:sz3120@columbia.edu))
+- **Caroline Smyth** ([css2215@columbia.edu](mailto:css2215@columbia.edu))
+- **Kathy Xu** ([kx2204@columbia.edu](mailto:kx2204@columbia.edu))
 
 
 ## Acknowledgements
