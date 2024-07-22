@@ -33,6 +33,7 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique that 
 - **Distance-driven Centrality**: Closeness, betweenness, and eigenvector centrality, capturing 6.87% of total variance.
 
 <div style="text-align: center;">
+    <p><strong>Principal Component Analysis Loadings</strong></p>
     <img src="images/pca_loadings.png" alt="Principal Component Analysis Loadings" width="50%">
 </div>
 
