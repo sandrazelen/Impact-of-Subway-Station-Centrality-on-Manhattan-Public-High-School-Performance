@@ -1,7 +1,7 @@
 # Impact of Subway Station Centrality on Manhattan Public High School Performance
 
 The original setup of this repository is by:
-- **Sandra Zelen** ([sz3120@columbia.edu](mailto:sz3120@columbia.edu))
+- **Sandra Zelen** ([sz3120@columbia.edu](mailto:sz3120@columbia.edu)) [LinkedIn](https://www.linkedin.com/in/sandra-zelen)
 - **Caroline Smyth** ([css2215@columbia.edu](mailto:css2215@columbia.edu))
 - **Kathy Xu** ([kx2204@columbia.edu](mailto:kx2204@columbia.edu))
 
