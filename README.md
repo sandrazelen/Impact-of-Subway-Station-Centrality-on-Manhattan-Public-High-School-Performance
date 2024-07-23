@@ -1,3 +1,10 @@
+# Impact of Subway Station Centrality on Manhattan Public High School Performance
+
+ **Name**          | **Email**                            |
+|----------------|--------------------|--------------------------------------|
+| Your Name          | [your.email@example.com](mailto:your.email@example.com)   |
+| Co-Author's Name   | [coauthor.email@example.com](mailto:coauthor.email@example.com)  |
+
 ## Introduction
 
 The New York City Metropolitan Transit Authority subway system is the largest transportation agency in North America, serving more than 3 million riders daily. In Manhattan, only 23.4\% of households own a car, making the borough highly dependent on the subway for transportation.
