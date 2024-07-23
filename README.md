@@ -76,7 +76,6 @@ We conducted K-means clustering on both the neighbor-driven and distance-driven 
     <img src="images/distancedriven_pc_table.png" alt="Distance-driven Centrality Clusters PCA Results">
 </div>
 
-
 ## Conclusion
 Although our data didn’t demonstrate the linear relationship we had initially hypothesized, using PCA and K-means clustering, we reached conclusions about centrality-performance relationships for Manhattan public high schools:
 
@@ -85,14 +84,6 @@ Although our data didn’t demonstrate the linear relationship we had initially 
 - Student Achievement is the most informative performance metric for school performance.
 
 School quality is informed by a host of factors, and school centrality and performance have a complex relationship that is worth further exploration. Expansions into other boroughs, additional centrality measures like population density around subway stations, and further exploration into non-linear models may lead to an even deeper understanding of this dynamic.
-
-## Authors & contributors
-
-The original setup of this repository is by:
-- **Sandra Zelen** ([sz3120@columbia.edu](mailto:sz3120@columbia.edu))
-- **Caroline Smyth** ([css2215@columbia.edu](mailto:css2215@columbia.edu))
-- **Kathy Xu** ([kx2204@columbia.edu](mailto:kx2204@columbia.edu))
-
 
 ## Acknowledgements
 
