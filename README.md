@@ -1,9 +1,9 @@
 # Impact of Subway Station Centrality on Manhattan Public High School Performance
 
- **Name**          | **Email**                            |
-|----------------|--------------------|--------------------------------------|
-| Your Name          | [your.email@example.com](mailto:your.email@example.com)   |
-| Co-Author's Name   | [coauthor.email@example.com](mailto:coauthor.email@example.com)  |
+The original setup of this repository is by:
+- **Sandra Zelen** ([sz3120@columbia.edu](mailto:sz3120@columbia.edu))
+- **Caroline Smyth** ([css2215@columbia.edu](mailto:css2215@columbia.edu))
+- **Kathy Xu** ([kx2204@columbia.edu](mailto:kx2204@columbia.edu))
 
 ## Introduction
 
